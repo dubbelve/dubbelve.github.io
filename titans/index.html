@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	<script src="js/jquery.countdown.min.js"></script>
+	<script src="js/moment.min.js"></script>
+	<script src="js/moment-timezone-with-data.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Exo:400,700,800" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/css.css">
+	<title>Countdown</title>
+</head>
+<body>
+	<div class="brand">W</div>
+	<div class="underlay"></div>
+	<div class="wrapper">
+		<div class="upper">
+			<h1><a href="https://www.facebook.com/TabyTitans/" class="orange">Titans</a> vs. <a href="https://www.facebook.com/events/231485174051208/">Flashguns cup</a></h1>
+		</div>
+		<div id="clock"></div>
+	</div>
+	<a href="spotify:user:brittaan:playlist:7KLdLRTP2YF50nrmvWlqAF" class="spotify">d e dags</a>
+	<script type="text/javascript">
+	  var nextYear = moment.tz("2018-04-12 00:00", "Europe/Stockholm");
+
+		$('#clock').countdown(nextYear.toDate(), function(event) {
+		  $(this).html(event.strftime('%D dagar %H:%M:%S'));
+		});
+	</script>
+</body>
+</html>
