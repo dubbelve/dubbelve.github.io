@@ -78,4 +78,41 @@ a.spotify{
 	font-weight: 800;
 	-webkit-filter: drop-shadow(0 3px 6px rgba(0,0,0,0.8));
   	filter: drop-shadow(0 3px 6px rgba(0,0,0,0.8));
+  	cursor: pointer;
+  	  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+@keyframes spin{
+	0% {
+		transform: rotate(50deg);
+		max-width: 100px;
+		max-height: 100px;
+	}
+    100% {
+    	transform: rotate(20deg);
+    	max-width: 200px;
+		max-height: 200px;
+    }
+}
+
+#clock.play:after{
+	content: "";
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	max-width: 200px;
+	max-height: 200px;
+	background:url('../img/eggplant.png');
+	background-size: contain;
+	background-position: center center;
+	background-repeat: no-repeat;
+	animation: spin .2s linear forwards;
 }
