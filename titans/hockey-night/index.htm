@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	<script src="../js/jquery.countdown.min.js"></script>
+	<script src="../js/moment.min.js"></script>
+	<script src="../js/moment-timezone-with-data.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Exo:400,700,800" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/css.css">
+	<meta property="og:image" content="img/og.jpg">
+	<meta property="og:image:width" content="600">
+	<meta property="og:image:height" content="316">
+	<meta name="viewport" content="width=device-width">
+	<title>Countdown</title>
+</head>
+<body>
+	<div class="brand">W</div>
+	<div class="underlay"></div>
+	<div class="wrapper">
+		<div class="upper">
+			<h1><a href="https://www.facebook.com/TabyTitans/" class="orange">Titans Hockeynight!</a>
+		</div>
+		<div id="clock"></div>
+	</div>
+	<script type="text/javascript">
+	  var nextYear = moment.tz("2018-02-24 00:00", "Europe/Stockholm");
+
+		$('#clock').countdown(nextYear.toDate(), function(event) {
+		  $(this).html(event.strftime('%D dagar %H:%M:%S'));
+		});
+		$('#clock').click(function() {
+			$(this).addClass('play');
+			setTimeout(function () { 
+			    $('#clock').removeClass('play');
+			}, 1000);
+		});
+	</script>
+</body>
+</html>
