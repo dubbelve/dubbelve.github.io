@@ -29,12 +29,6 @@
 		$('#clock').countdown(nextYear.toDate(), function(event) {
 		  $(this).html(event.strftime('%D dagar %H:%M:%S'));
 		});
-		$('#clock').click(function() {
-			$(this).addClass('play');
-			setTimeout(function () { 
-			    $('#clock').removeClass('play');
-			}, 1000);
-		});
 	</script>
 </body>
 </html>
