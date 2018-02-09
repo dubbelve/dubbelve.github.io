@@ -44,20 +44,34 @@ div.brand{
 	display: inline-block;
 	text-transform: uppercase;
 }
-.upper h1{
-	font-size: 5rem;
+.upper h1,.upper h3{
+	font-size: 4rem;
 	margin: 10px;
 	color: #fff;
 }
-.upper h3{
-	font-size: 2rem;
+@media (max-width: 780px){
+	.upper h1,.upper h3{
+		font-size: 3rem;
+		margin: 10px;
+		color: #fff;
+	}
+}
+@media (max-width: 480px){
+	.upper h1,.upper h3{
+		font-size: 2rem;
+		margin: 10px 2rem;
+		color: #fff;
+	}
 }
 .upper a{
 	text-decoration: none;
 	color: #fff;
+	transition: color .2s ease-in-out;
+	-webkit-transition: color .2s ease-in-out;
 }
 .upper a:hover{
 	opacity: 0.9;
+	color: #ff7700;
 }
 .upper h1 a.orange{
 	color: #ff7700;
@@ -71,6 +85,7 @@ div.brand{
 	font-size: 4em;
 	font-family: "Exo", Impact, sans-serif;
 	font-weight: 800;
+	margin: 0 20px;
 	-webkit-filter: drop-shadow(0 3px 6px rgba(0,0,0,0.8));
   	filter: drop-shadow(0 3px 6px rgba(0,0,0,0.8));
   	cursor: pointer;
@@ -83,33 +98,4 @@ div.brand{
                                   supported by Chrome and Opera */
       -webkit-tap-highlight-color: rgba(0,0,0,0);
 	-webkit-tap-highlight-color: transparent;
-}
-@keyframes spin{
-	0% {
-		transform: rotate(50deg);
-		max-width: 100px;
-		max-height: 100px;
-	}
-    100% {
-    	transform: rotate(20deg);
-    	max-width: 200px;
-		max-height: 200px;
-    }
-}
-
-#clock.play:after{
-	content: "";
-	position: fixed;
-	top: 0;
-	left: 0;
-	bottom: 0;
-	right: 0;
-	margin: auto;
-	max-width: 200px;
-	max-height: 200px;
-	background:url('../img/eggplant.png');
-	background-size: contain;
-	background-position: center center;
-	background-repeat: no-repeat;
-	animation: spin .2s linear forwards;
 }
