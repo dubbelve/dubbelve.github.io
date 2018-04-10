@@ -4,7 +4,6 @@ formConfirm = () => {
 	event.stopPropagation();
 	 $.ajax({
 		 type: 'POST',
-		 url: location.href,
 		 success: function (data, responseText) {
 			 var overlay = document.createElement('div');
 			 overlay.className = "w_overlay";
