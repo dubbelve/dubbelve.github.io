@@ -6,8 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script src="script.js"></script>
 </head>
 <body>
     <form class="w_form" id="w_form" onSubmit="formConfirm()">
