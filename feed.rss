@@ -1,34 +1,29 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-
-    <channel>
-        <title>Senaste nytt på IDG.se</title>
-        <link>https://www.idg.se</link>
-        <description>Senaste nyheter från alla publikationer för idg.se</description>
-        <language>sv</language>
-        <lastBuildDate>Thu, 9 Aug 2018 13:40:36 +0200</lastBuildDate>
-        <item>
-            <guid>https://techworld.idg.se/2.2524/1.705446/hackare-staller-in-siktet-pa-sverige</guid>
-            <title>Ny hackergrupp ställer in siktet på Sverige</title>
-            <description>Gamla beprövade metoder är framgångsrika även för kriminella hackare. För ännu en gång har en lång rad phishingattacker genomförts mot måltavlor världen över, däribland Sverige.</description>
-            <link>https://techworld.idg.se/2.2524/1.705446/hackare-staller-in-siktet-pa-sverige</link>
-            <pubDate>Fri, 10 Aug 2018 12:40:56 +0200</pubDate>
-            <dc:creator>Sophia Nilsson</dc:creator>
-            <category>Säkerhet</category>
-            <enclosure url="http://www.idg.se/editorial/688/path/1.705446.1533738766!imageUploader/3370705665.jpg" length="86" type="image/jpeg" />
-        </item>
-        <item>
-            <guid>https://m3.idg.se/2.1022/1.705548/galaxy-home</guid>
-            <title>Galaxy Home – Bixby och Smartthings i Samsungs smarta högtalare</title>
-            <description>
-                Samsungs svar på Echo, Homepod och Google Home är här. Galaxy Home använder Samsungs digitala assistent och fungerar som smarta hemmet-hubb.
-            </description>
-            <link>https://m3.idg.se/2.1022/1.705548/galaxy-home</link>
-            <pubDate>Fri, 10 Aug 2018 10:54:34 +0200</pubDate>
-            <dc:creator>Sophia Nilsson</dc:creator>
-            <enclosure url="https://www.idg.se/editorial/688/path/1.705542.1533889881!teaserImage/imageTypeSelector/localImage/818293239.jpg" length="86" type="image/jpeg" />
-            <category>Teknik</category>
-        </item>
-    </channel>
-
+<?xml version="1.0" encoding="UTF-8" ?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+    <title>Senaste nytt på IDG.se</title>
+    <link>https://www.idg.se</link>
+    <description>Senaste nyheter från alla publikationer för idg.se</description>
+    <language>sv</language>
+    <lastBuildDate>Thu, 9 Aug 2018 13:40:36 +0200</lastBuildDate>
+    <item>
+        <guid>https://techworld.idg.se/2.2524/1.705446/hackare-staller-in-siktet-pa-sverige</guid>
+        <title>Ny hackergrupp ställer in siktet på Sverige</title>
+        <description>Gamla beprövade metoder är framgångsrika även för kriminella hackare. För ännu en gång har en lång rad phishingattacker genomförts mot måltavlor världen över, däribland Sverige.</description>
+        <link>https://techworld.idg.se/2.2524/1.705446/hackare-staller-in-siktet-pa-sverige</link>
+        <pubDate>Fri, 10 Aug 2018 12:40:56 +0200</pubDate>
+        <category>Säkerhet</category>
+        <enclosure url="http://www.idg.se/editorial/688/path/1.705446.1533738766!imageUploader/3370705665.jpg" length="86" type="image/jpeg" />
+    </item>
+    <item>
+        <guid>https://m3.idg.se/2.1022/1.705548/galaxy-home</guid>
+        <title>Galaxy Home – Bixby och Smartthings i Samsungs smarta högtalare</title>
+        <description>
+            Samsungs svar på Echo, Homepod och Google Home är här. Galaxy Home använder Samsungs digitala assistent och fungerar som smarta hemmet-hubb.
+        </description>
+        <link>https://m3.idg.se/2.1022/1.705548/galaxy-home</link>
+        <pubDate>Fri, 10 Aug 2018 10:54:34 +0200</pubDate>
+        <enclosure url="http://www.idg.se/editorial/688/path/1.705542.1533889881!teaserImage/imageTypeSelector/localImage/818293239.jpg" length="86" type="image/jpeg" />
+        <category>Teknik</category>
+    </item>
+</channel>
 </rss>
