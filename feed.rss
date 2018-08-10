@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8" ?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
     <title>Senaste nytt på IDG.se</title>
     <link>https://www.idg.se</link>
@@ -12,6 +12,7 @@
         <link>https://techworld.idg.se/2.2524/1.705446/hackare-staller-in-siktet-pa-sverige</link>
         <pubDate>Fri, 10 Aug 2018 12:40:56 +0200</pubDate>
         <category>Säkerhet</category>
+        <dc:creator>Luke Skywalker</dc:creator>
         <enclosure url="http://www.idg.se/editorial/688/path/1.705446.1533738766!imageUploader/3370705665.jpg" length="86" type="image/jpeg" />
     </item>
     <item>
@@ -20,6 +21,7 @@
         <description>
             Samsungs svar på Echo, Homepod och Google Home är här. Galaxy Home använder Samsungs digitala assistent och fungerar som smarta hemmet-hubb.
         </description>
+        <dc:creator>Emperor Palmpatine</dc:creator>
         <link>https://m3.idg.se/2.1022/1.705548/galaxy-home</link>
         <pubDate>Fri, 10 Aug 2018 10:54:34 +0200</pubDate>
         <enclosure url="http://www.idg.se/editorial/688/path/1.705542.1533889881!teaserImage/imageTypeSelector/localImage/818293239.jpg" length="86" type="image/jpeg" />
