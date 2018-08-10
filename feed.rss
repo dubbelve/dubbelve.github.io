@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 
     <channel>
         <title>Senaste nytt på IDG.se</title>
@@ -8,13 +8,13 @@
         <language>sv</language>
         <lastBuildDate>Thu, 9 Aug 2018 13:40:36 +0200</lastBuildDate>
         <item>
+            <guid>https://techworld.idg.se/2.2524/1.705446/hackare-staller-in-siktet-pa-sverige</guid>
             <title>Ny hackergrupp ställer in siktet på Sverige</title>
             <link>https://techworld.idg.se/2.2524/1.705446/hackare-staller-in-siktet-pa-sverige</link>
             <description>Gamla beprövade metoder är framgångsrika även för kriminella hackare. För ännu en gång har en lång rad phishingattacker genomförts mot måltavlor världen över, däribland Sverige.</description>
-            <author>Sophia Nilsson</author>
+            <dc:creator>Sophia Nilsson</dc:creator>
             <category>Säkerhet</category>
-            <enclosure url="https://www.idg.se/editorial/688/path/1.705446.1533738766!imageUploader/3370705665.jpg" type="image/jpeg">
-            <pubDate>2018-08-09 06:05</pubDate>
+            <enclosure url="http://www.idg.se/editorial/688/path/1.705446.1533738766!imageUploader/3370705665.jpg" length="86" type="image/jpeg" />
         </item>
     </channel>
 
