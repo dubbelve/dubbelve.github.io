@@ -10,11 +10,24 @@
         <item>
             <guid>https://techworld.idg.se/2.2524/1.705446/hackare-staller-in-siktet-pa-sverige</guid>
             <title>Ny hackergrupp ställer in siktet på Sverige</title>
-            <link>https://techworld.idg.se/2.2524/1.705446/hackare-staller-in-siktet-pa-sverige</link>
             <description>Gamla beprövade metoder är framgångsrika även för kriminella hackare. För ännu en gång har en lång rad phishingattacker genomförts mot måltavlor världen över, däribland Sverige.</description>
+            <link>https://techworld.idg.se/2.2524/1.705446/hackare-staller-in-siktet-pa-sverige</link>
+            <pubDate>Fri, 10 Aug 2018 12:40:56 +0200</pubDate>
             <dc:creator>Sophia Nilsson</dc:creator>
             <category>Säkerhet</category>
             <enclosure url="http://www.idg.se/editorial/688/path/1.705446.1533738766!imageUploader/3370705665.jpg" length="86" type="image/jpeg" />
+        </item>
+        <item>
+            <guid>https://m3.idg.se/2.1022/1.705548/galaxy-home</guid>
+            <title>Galaxy Home – Bixby och Smartthings i Samsungs smarta högtalare</title>
+            <description>
+                Samsungs svar på Echo, Homepod och Google Home är här. Galaxy Home använder Samsungs digitala assistent och fungerar som smarta hemmet-hubb.
+            </description>
+            <link>https://m3.idg.se/2.1022/1.705548/galaxy-home</link>
+            <pubDate>Fri, 10 Aug 2018 10:54:34 +0200</pubDate>
+            <dc:creator>Sophia Nilsson</dc:creator>
+            <enclosure url="https://www.idg.se/editorial/688/path/1.705542.1533889881!teaserImage/imageTypeSelector/localImage/818293239.jpg" length="86" type="image/jpeg" />
+            <category>Teknik</category>
         </item>
     </channel>
 
