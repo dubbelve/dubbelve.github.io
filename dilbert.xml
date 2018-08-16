@@ -1,0 +1,29 @@
+<rss version="2.0">
+<channel>
+<title>Dagens dilbert via idg</title>
+<link>
+http://www.awsdev.idg.se/2.33206/dagens-dilbert-pa-idgse
+</link>
+<description>
+Dagens dilbert via idg, 2018-08-16. Copyright Comics.com
+</description>
+<copyright>Copyright Comics.com</copyright>
+<image>
+<url>http://dilbert.idg.se/dil20180816.gif</url>
+<title>Dilbert 2018-08-16</title>
+<link>
+http://www.awsdev.idg.se/2.33206/dagens-dilbert-pa-idgse
+</link>
+</image>
+<item>
+<title>Dilbert 2018-08-16</title>
+<link>
+http://www.awsdev.idg.se/2.33206/dagens-dilbert-pa-idgse
+</link>
+<description>
+Dagens dilbert via idg, 2018-08-16. Copyright Comics.com
+</description>
+<enclosure url="http://dilbert.idg.se/dil20180816.gif" type="image/gif" lenght="0"/>
+</item>
+</channel>
+</rss>
