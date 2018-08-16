@@ -8,22 +8,13 @@ http://www.awsdev.idg.se/2.33206/dagens-dilbert-pa-idgse
 Dagens dilbert via idg, 2018-08-16. Copyright Comics.com
 </description>
 <copyright>Copyright Comics.com</copyright>
-<image>
-<url>http://dilbert.idg.se/dil20180816.gif</url>
-<title>Dilbert 2018-08-16</title>
-<link>
-http://www.awsdev.idg.se/2.33206/dagens-dilbert-pa-idgse
-</link>
-</image>
 <item>
-<title>Dilbert 2018-08-16</title>
-<link>
-http://www.awsdev.idg.se/2.33206/dagens-dilbert-pa-idgse
-</link>
-<description>
-Dagens dilbert via idg, 2018-08-16. Copyright Comics.com
-</description>
-<enclosure url="http://dilbert.idg.se/dil20180816.gif" type="image/gif" length="0"/>
+    <guid>http://www.awsdev.idg.se/2.33206/dagens-dilbert-pa-idgse</guid>
+    <title>Dagens dilbert via idg</title>
+    <description>Dagens dilbert via idg, 2018-08-16. Copyright Comics.com</description>
+    <link>http://www.awsdev.idg.se/2.33206/dagens-dilbert-pa-idgse</link>
+    <pubDate>Thu, 16 Aug 2018 12:40:56 +0200</pubDate>
+    <enclosure url="http://dilbert.idg.se/dil20180816.gif" type="image/gif" length="0"/>
 </item>
 </channel>
 </rss>
