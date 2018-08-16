@@ -23,7 +23,7 @@ http://www.awsdev.idg.se/2.33206/dagens-dilbert-pa-idgse
 <description>
 Dagens dilbert via idg, 2018-08-16. Copyright Comics.com
 </description>
-<enclosure url="http://dilbert.idg.se/dil20180816.gif" type="image/gif" lenght="0"/>
+<enclosure url="http://dilbert.idg.se/dil20180816.gif" type="image/gif" length="0"/>
 </item>
 </channel>
 </rss>
