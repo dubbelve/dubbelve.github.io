@@ -1,1779 +1,2720 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
 <channel>
-<title>Senaste nytt på IDG.se</title>
-<link>http://www.awsdev.idg.se</link>
-<language>sv</language>
-<copyright>
-Copyright 1998-2018 INTERNATIONAL DATA GROUP. All Rights Reserved.
-</copyright>
-<description>Senaste nyheter från alla publikationer för idg.se</description>
-<item>
-<guid>
-http://computersweden.awsdev.idg.se/2.2683/1.691785/storbanker-spricka-api
-</guid>
-<title>
-Spricka mellan storbankerna om framtidens fintech-tjänster
-</title>
-<description>
-Bankerna står inför en stor omvälvning. Med öppna api:er ska banker gör sina data och tjänster tillgängliga för externa partner. Men hur öppet får det lov att vara?
-</description>
-<link>
-http://computersweden.awsdev.idg.se/2.2683/1.691785/storbanker-spricka-api
-</link>
-<pubDate>Thu, 07 Jun 2018 10:05:00 +0000</pubDate>
-<category>Rapport/Undersökning/Trend</category>
-<category>Systemutveckling</category>
-<category>Ekonomi/Branch</category>
-<dc:creator>Lars Danielsson</dc:creator>
-<dc:creator>Daniel Larsson</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691785!imageUploader/3272512706.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://computersweden.awsdev.idg.se/2.2683/1.691975/veckans-it-affarer
-</guid>
-<title>
-Dustin köper mötesspecialist – här är veckans it-affärer
-</title>
-<description>
-Dustins köplust tar inget höstlov, inte heller konsultbolagen som tecknat nya affärer i veckan. Dessutom får svenska partner internationella pris.
-</description>
-<link>
-http://computersweden.awsdev.idg.se/2.2683/1.691975/veckans-it-affarer
-</link>
-<pubDate>Thu, 07 Jun 2018 10:05:00 +0000</pubDate>
-<category>CS Bransch</category>
-<category>Ekonomi/Branch</category>
-<dc:creator>Joakim Arstad Djurberg</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691975!imageUploader/224532455.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://computersweden.awsdev.idg.se/2.2683/1.691823/bankvarlden-ai
-</guid>
-<title>
-G20: Finansbranschens användning av AI kan behöva ny reglering
-</title>
-<description>
-Artificiell intelligens är på väg in på bankerna. Men nu lyfts ett varnande finger för att det ökande beroendet av teknikbolag utanför bankerna kräver ny reglering. 
-</description>
-<link>
-http://computersweden.awsdev.idg.se/2.2683/1.691823/bankvarlden-ai
-</link>
-<pubDate>Thu, 07 Jun 2018 09:30:00 +0000</pubDate>
-<category>Ekonomi/Branch</category>
-<dc:creator>Karin Lindström</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691823!imageUploader/1918932580.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>http://www.awsdev.idg.se/2.1085/1.692201/test	</guid>
-<title>test</title>
-<description>setssts</description>
-<link>http://www.awsdev.idg.se/2.1085/1.692201/test	</link>
-<pubDate>Fri, 01 Jun 2018 13:00:00 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>IDG.se </dc:creator>
-</item>
-<item>
-<guid>
-http://techworld.awsdev.idg.se/2.2524/1.691897/devops-hinder
-</guid>
-<title>55 hinder mot att införa devops</title>
-<description>
-Det finns alla möjliga hinder mot att lyckas med devops, som kulturella, processmässiga och tekniska. Här är de värsta och även tips för att övervinna dem.
-</description>
-<link>
-http://techworld.awsdev.idg.se/2.2524/1.691897/devops-hinder
-</link>
-<pubDate>Tue, 22 May 2018 12:20:00 +0000</pubDate>
-<category>Systemutveckling</category>
-<category>Teknik</category>
-<dc:creator>Lars Danielsson</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691897!imageUploader/1358655713.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692188/test-av-sida-2-fran-magnus-fetartikel-for-re-spect
-</guid>
-<title>
-test av sida 2 från Magnus fetartikel för Re-spec:t!
-</title>
-<description>iframe lista 12-20</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692188/test-av-sida-2-fran-magnus-fetartikel-for-re-spect
-</link>
-<pubDate>Fri, 20 Apr 2018 07:29:14 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>IDG.se </dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692186/sveriges-radio-embed
-</guid>
-<title>Sveriges radio embed</title>
-<description>SR</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692186/sveriges-radio-embed
-</link>
-<pubDate>Wed, 18 Apr 2018 09:52:39 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Anna Davour</dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692182/soundcloud---mindre-spelare
-</guid>
-<title>Soundcloud - mindre spelare</title>
-<description>Soundcloud mindre</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692182/soundcloud---mindre-spelare
-</link>
-<pubDate>Wed, 18 Apr 2018 09:47:56 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Erik Hofslagare</dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692181/instagram---film
-</guid>
-<title>Instagram - film</title>
-<description>insta-film</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692181/instagram---film
-</link>
-<pubDate>Wed, 18 Apr 2018 09:47:53 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Anna Davour</dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692180/instagram---flera-bilder-bildspel
-</guid>
-<title>Instagram - flera bilder, bildspel</title>
-<description>insta bildspel</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692180/instagram---flera-bilder-bildspel
-</link>
-<pubDate>Wed, 18 Apr 2018 09:47:50 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Anna Davour</dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692178/artikel---linkedin-video
-</guid>
-<title>Artikel - LinkedIn Video</title>
-<description>linkedIn video</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692178/artikel---linkedin-video
-</link>
-<pubDate>Wed, 18 Apr 2018 09:47:37 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Internetworld </dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692183/google-calender
-</guid>
-<title>Google calender </title>
-<description>Google calender</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692183/google-calender
-</link>
-<pubDate>Wed, 18 Apr 2018 09:47:28 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Emelie Fågelstedt</dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692185/iframe---google-doc
-</guid>
-<title>Iframe - google doc</title>
-<description>iframat google doc</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692185/iframe---google-doc
-</link>
-<pubDate>Wed, 18 Apr 2018 09:47:10 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Anna Davour</dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692177/artikel---youtube
-</guid>
-<title>Artikel - YouTube</title>
-<description>Youtube klipp via artikel video fältet</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692177/artikel---youtube
-</link>
-<pubDate>Wed, 18 Apr 2018 09:30:40 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>IDG.se </dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692175/artikel---facebook-post
-</guid>
-<title>Artikel - Facebook Post</title>
-<description>FB i brödtext</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692175/artikel---facebook-post
-</link>
-<pubDate>Wed, 18 Apr 2018 06:44:36 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>IDG.se </dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692174/artikel---spotify
-</guid>
-<title>Artikel - Spotify</title>
-<description>Musik i brödtext</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692174/artikel---spotify
-</link>
-<pubDate>Wed, 18 Apr 2018 06:43:10 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>IDG.se </dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692171/artikel---infogram
-</guid>
-<title>Artikel - Infogram</title>
-<description>Infogram i brödtext</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692171/artikel---infogram
-</link>
-<pubDate>Wed, 18 Apr 2018 06:42:02 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>IDG.se </dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692172/artikel---libsyn
-</guid>
-<title>Artikel - Libsyn</title>
-<description>Podd i brödtext</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692172/artikel---libsyn
-</link>
-<pubDate>Wed, 18 Apr 2018 06:41:45 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>IDG.se </dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692168/artikel---facebook-video
-</guid>
-<title>Artikel - Facebook Video</title>
-<description>Artikel med facebook video i brödtext</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692168/artikel---facebook-video
-</link>
-<pubDate>Wed, 18 Apr 2018 06:40:54 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>IDG.se </dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692173/artikel---soundcloud
-</guid>
-<title>Artikel - Soundcloud</title>
-<description>Musik i brödtext</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692173/artikel---soundcloud
-</link>
-<pubDate>Wed, 18 Apr 2018 06:39:35 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>IDG.se </dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692170/artikel---vimeo-video
-</guid>
-<title>Artikel - Vimeo Video</title>
-<description>vimeo i brödtext</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692170/artikel---vimeo-video
-</link>
-<pubDate>Wed, 18 Apr 2018 06:32:44 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>IDG.se </dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692169/artikel---linkedin
-</guid>
-<title>Artikel - LinkedIn</title>
-<description>Artikel med LinkedIn i brödtext</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692169/artikel---linkedin
-</link>
-<pubDate>Wed, 18 Apr 2018 06:30:02 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>IDG.se </dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692167/artikel---twitter
-</guid>
-<title>Artikel - Twitter</title>
-<description>Artikel med twitter tweet</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692167/artikel---twitter
-</link>
-<pubDate>Wed, 18 Apr 2018 06:24:59 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>IDG.se </dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692166/artikel---instagram
-</guid>
-<title>Artikel - Instagram </title>
-<description>instagram i artikelns brödtext</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692166/artikel---instagram
-</link>
-<pubDate>Wed, 18 Apr 2018 06:23:18 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>IDG.se </dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692127/test-test-test
-</guid>
-<title>test test test</title>
-<description>test</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692127/test-test-test
-</link>
-<pubDate>Fri, 02 Mar 2018 12:39:00 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Computer Sweden</dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692063/testar-og-brodtext-bild
-</guid>
-<title>testar og brödtext bild</title>
-<description>blir urlen picky?</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692063/testar-og-brodtext-bild
-</link>
-<pubDate>Tue, 20 Feb 2018 13:10:56 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>IDG.se </dc:creator>
-</item>
-<item>
-<guid>
-http://m3.awsdev.idg.se/2.1022/1.692035/black-friday-2017-fynda-tv--har-gor-du-basta-klippen
-</guid>
-<title>
-Black Friday 2017: Fynda TV – här gör du bästa klippen
-</title>
-<description>
-Dags att fynda ny tv? Vi har samlat bästa erbjudandena från de olika butikerna här!
-</description>
-<link>
-http://m3.awsdev.idg.se/2.1022/1.692035/black-friday-2017-fynda-tv--har-gor-du-basta-klippen
-</link>
-<pubDate>Mon, 11 Dec 2017 08:58:34 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>M3 Redaktion</dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692031/test---syns-jag
-</guid>
-<title>TEST - syns jag? 09:25</title>
-<description>TEST - syns jag?</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692031/test---syns-jag
-</link>
-<pubDate>Thu, 30 Nov 2017 10:31:08 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>IDG.se </dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.692028/test-brodtext
-</guid>
-<title>Test brödtext</title>
-<description>Brödtext med div innehållandes inre divar</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.692028/test-brodtext
-</link>
-<pubDate>Tue, 28 Nov 2017 11:51:37 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>IDG.se </dc:creator>
-</item>
-<item>
-<guid>
-http://computersweden.awsdev.idg.se/2.2683/1.691896/rusning-programmering-skolan
-</guid>
-<title>
-Huggsexa om platserna när lärare måste kunna programmering – alla hinns inte med
-</title>
-<description>
-Nästa höst gör programmering entré i den svenska skolan. Men osäkerheten ute bland mattelärare är stor. Platserna på de olika fortbildningar som erbjuds tar slut i ett nafs och alla kommer inte hinna få den utbildning de behöver. 
-</description>
-<link>
-http://computersweden.awsdev.idg.se/2.2683/1.691896/rusning-programmering-skolan
-</link>
-<pubDate>Mon, 06 Nov 2017 05:02:00 +0000</pubDate>
-<category>Ekonomi/Branch</category>
-<dc:creator>Karin Lindström</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691896!imageUploader/3272512706.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://m3.awsdev.idg.se/2.1022/1.691995/uppgifter-amazon-vill-gora-tv-serie-av-sagan-om-ringen
-</guid>
-<title>
-Uppgifter: Amazon vill göra tv-serie av Sagan om Ringen
-</title>
-<description>
-Streamingjättarna med Amazon i spetsen cirkulerar runt J.R.R. Tolkiens verk. Men tv-serierättigheterna kommer med begränsningar för vissa karaktärer.
-</description>
-<link>
-http://m3.awsdev.idg.se/2.1022/1.691995/uppgifter-amazon-vill-gora-tv-serie-av-sagan-om-ringen
-</link>
-<pubDate>Sun, 05 Nov 2017 13:44:42 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Viktor Eriksson</dc:creator>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.691994/bugg-kraschar-apple-watch-nar-siri-fragas-om-vadret
-</guid>
-<title>
-Bugg kraschar Apple Watch när Siri frågas om vädret
-</title>
-<description>
-När användare frågat Siri om det regnar har Apple Watch kraschat. Här i Sverige verkar vi dock inte vara påverkade.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.691994/bugg-kraschar-apple-watch-nar-siri-fragas-om-vadret
-</link>
-<pubDate>Sun, 05 Nov 2017 10:12:29 +0000</pubDate>
-<category>Apple</category>
-<category>Apple Watch</category>
-<category>Teknik</category>
-<dc:creator>Andréas Göransson</dc:creator>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.691993/sociala-medier-invaderas-av-animoji-karaoke
-</guid>
-<title>Animoji-karaoke tar över internet</title>
-<description>
-Apples nya animojis har blivit en stor hit på internet.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.691993/sociala-medier-invaderas-av-animoji-karaoke
-</link>
-<pubDate>Sun, 05 Nov 2017 09:55:36 +0000</pubDate>
-<category>Apple</category>
-<category>iOS</category>
-<category>iPhone</category>
-<category>iOS</category>
-<category>iPhone</category>
-<category>Mjukvara</category>
-<category>Teknik</category>
-<dc:creator>Andréas Göransson</dc:creator>
-</item>
-<item>
-<guid>
-http://m3.awsdev.idg.se/2.1022/1.691984/xbox-one-x-och-nya-mobiler--har-ar-veckans-viktigaste-nyheter
-</guid>
-<title>
-Xbox One X och nya mobiler – här är veckans viktigaste nyheter
-</title>
-<description>
-Det här har hänt de senaste sju dagarna på elektronikfronten.
-</description>
-<link>
-http://m3.awsdev.idg.se/2.1022/1.691984/xbox-one-x-och-nya-mobiler--har-ar-veckans-viktigaste-nyheter
-</link>
-<pubDate>Sun, 05 Nov 2017 08:52:00 +0000</pubDate>
-<category>Datorer</category>
-<category>Mobilt</category>
-<category>Spel</category>
-<category>Mobiltelefon</category>
-<category>Teknik</category>
-<dc:creator>Mikael Markander</dc:creator>
-</item>
-<item>
-<guid>
-http://pcforalla.awsdev.idg.se/2.1054/1.691427/gratis-barnbocker-surfplatta
-</guid>
-<title>Här hittar du gratis barnböcker för surfplattan</title>
-<description>
-E-böcker behöver inte kosta skjortan. Med den nya appen Bibblix kan du låna gratis barnböcker utan kostnad. Men det finns förstås en hake.
-</description>
-<link>
-http://pcforalla.awsdev.idg.se/2.1054/1.691427/gratis-barnbocker-surfplatta
-</link>
-<pubDate>Sun, 05 Nov 2017 08:05:00 +0000</pubDate>
-<category>--> Publicera på PFA löp</category>
-<category>Mobilt</category>
-<category>Appar</category>
-<category>Dagens app</category>
-<category>Internet/Webbtjänster</category>
-<category>Teknik</category>
-<dc:creator>Martin Appel</dc:creator>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.691983/har-ar-veckans-viktigaste-apple-nyheter-v44
-</guid>
-<title>Här är veckans viktigaste Apple-nyheter (v.44)</title>
-<description>
-Det här har hänt de senaste sju dagarna i Applevärlden.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.691983/har-ar-veckans-viktigaste-apple-nyheter-v44
-</link>
-<pubDate>Sun, 05 Nov 2017 08:04:00 +0000</pubDate>
-<category>Apple</category>
-<category>Teknik</category>
-<dc:creator>Mikael Markander</dc:creator>
-</item>
-<item>
-<guid>
-http://pcforalla.awsdev.idg.se/2.1054/1.479041/sa-julstadar-du-datorn---pa-bara-15-minuter
-</guid>
-<title>Vinterstäda datorn med populära Ccleaner</title>
-<description>
-Om datorn börjar bli långsam kan en storstädning vara på sin plats. Så här gör du med gratisverktyget Ccleaner.
-</description>
-<link>
-http://pcforalla.awsdev.idg.se/2.1054/1.479041/sa-julstadar-du-datorn---pa-bara-15-minuter
-</link>
-<pubDate>Sun, 05 Nov 2017 08:01:00 +0000</pubDate>
-<category>--> Publicera på PFA löp</category>
-<category>Trimning</category>
-<category>Enkel</category>
-<category>Trimning</category>
-<category>Mjukvara</category>
-<category>Teknik</category>
-<dc:creator>Martin Appel</dc:creator>
-</item>
-<item>
-<guid>
-http://techworld.awsdev.idg.se/2.2524/1.691877/linux-distar
-</guid>
-<title>Här är 10 obskyra men rätt användbara Linux-distar</title>
-<description>
-Långt bortom Ubuntu, Red Hat och Feodora finns en djungel av nischade Linux-distributioner som rymmer massor av pärlor. Vår systersajt Computerworld har listat tio lite annorlunda och ofta användbara distar.
-</description>
-<link>
-http://techworld.awsdev.idg.se/2.2524/1.691877/linux-distar
-</link>
-<pubDate>Sun, 05 Nov 2017 08:01:00 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Simon Campanello</dc:creator>
-</item>
-<item>
-<guid>
-http://m3.awsdev.idg.se/2.1022/1.691991/brons-till-sverige-i-overwatch-vm
-</guid>
-<title>Brons till Sverige i Overwatch-VM </title>
-<description>
-Besegrade Frankrike med 4 - 2 i en "bäst av fem"-match. VM-segern gick till Sydkorea som vann över Kanada i en bäst av sju match.
-</description>
-<link>
-http://m3.awsdev.idg.se/2.1022/1.691991/brons-till-sverige-i-overwatch-vm
-</link>
-<pubDate>Sun, 05 Nov 2017 06:00:00 +0000</pubDate>
-<category>E-sport</category>
-<category>Spel</category>
-<category>Underhållning/Spel</category>
-<category>Teknik</category>
-<dc:creator>Viktor Eriksson</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691991!imageUploader/3529244587.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://m3.awsdev.idg.se/2.1022/1.691979/logitech-slapper-virtual-reality-tangentbord
-</guid>
-<title>Logitech släpper virtual reality-tangentbord</title>
-<description>
-Logitech Bridge gör så att du kan se ditt tangentbord även i virtual reality när du använder HTC Vive. Gäller för alla spel och appar som använder Steamvr.
-</description>
-<link>
-http://m3.awsdev.idg.se/2.1022/1.691979/logitech-slapper-virtual-reality-tangentbord
-</link>
-<pubDate>Sat, 04 Nov 2017 15:18:27 +0000</pubDate>
-<category>Spel</category>
-<category>Datortillbehör</category>
-<category>Spelkonsol</category>
-<category>Hårdvara</category>
-<category>Mjukvara</category>
-<category>Underhållning/Spel</category>
-<category>Medieproduktion</category>
-<category>Teknik</category>
-<dc:creator>Viktor Eriksson</dc:creator>
-</item>
-<item>
-<guid>
-http://m3.awsdev.idg.se/2.1022/1.691982/blizzard-backar-bandet--introducerar-klassiska-servrar-till-world-of-warcraft
-</guid>
-<title>
-Blizzard backar bandet – introducerar klassiska servrar till World of Warcraft
-</title>
-<description>
-Nu kommer mer vaniljspel åt folket. Men när servern är redo är inte helt klart.
-</description>
-<link>
-http://m3.awsdev.idg.se/2.1022/1.691982/blizzard-backar-bandet--introducerar-klassiska-servrar-till-world-of-warcraft
-</link>
-<pubDate>Sat, 04 Nov 2017 12:54:35 +0000</pubDate>
-<category>Spel</category>
-<category>Underhållning/Spel</category>
-<category>Teknik</category>
-<dc:creator>Andréas Göransson</dc:creator>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.691977/tjuvar-stal-iphone-x-leverans-fran-parkerad-lastbil
-</guid>
-<title>
-Tjuvar stal Iphone X-leverans från parkerad lastbil
-</title>
-<description>
-En grupp tjuvar slog i onsdags till mot en UPS-lastbil som var på väg till en Apple-butik i San Francisco med en leverans av företagets nya mobil.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.691977/tjuvar-stal-iphone-x-leverans-fran-parkerad-lastbil
-</link>
-<pubDate>Sat, 04 Nov 2017 10:22:00 +0000</pubDate>
-<category>Apple</category>
-<category>iPhone</category>
-<category>Teknik</category>
-<dc:creator>Anders Lundberg</dc:creator>
-</item>
-<item>
-<guid>
-http://pcforalla.awsdev.idg.se/2.1054/1.691418/smart-matlagningstips-kolla-vad-maten-vager
-</guid>
-<title>
-Smart matlagningstips: Här ser du vad ingredienserna väger
-</title>
-<description>
-Har du problem att dosera rätt nät du lagar mat? Här är sajten som hjälper dig.
-</description>
-<link>
-http://pcforalla.awsdev.idg.se/2.1054/1.691418/smart-matlagningstips-kolla-vad-maten-vager
-</link>
-<pubDate>Sat, 04 Nov 2017 08:34:00 +0000</pubDate>
-<category>--> Publicera på PFA löp</category>
-<category>Surftips nytta</category>
-<category>Internet/Webbtjänster</category>
-<category>Teknik</category>
-<dc:creator>Martin Appel</dc:creator>
-</item>
-<item>
-<guid>
-http://pcforalla.awsdev.idg.se/2.1054/1.689263/facebook-sakerhetskoll
-</guid>
-<title>
-Så skippar du Facebooks jobbiga säkerhetskoll (på egen risk)
-</title>
-<description>
-Du bestämmer själv hur hög säkerhet du vill ha på Facebook och Google. Så här gör du för att höja eller sänka den.
-</description>
-<link>
-http://pcforalla.awsdev.idg.se/2.1054/1.689263/facebook-sakerhetskoll
-</link>
-<pubDate>Sat, 04 Nov 2017 08:01:00 +0000</pubDate>
-<category>--> Publicera på PFA löp</category>
-<category>Datorer</category>
-<category>Datorer</category>
-<category>Enkel</category>
-<category>Säkerhet</category>
-<category>Internet/Webbtjänster</category>
-<category>Teknik</category>
-<dc:creator>PC för Alla </dc:creator>
-</item>
-<item>
-<guid>
-http://m3.awsdev.idg.se/2.1022/1.691976/starcraft-ii-blir-gratis-att-spela
-</guid>
-<title>Starcraft II blir gratis att spela </title>
-<description>
-Från och med 14 november kan du ladda ner Starcraft II: Wings of Liberty via Battle.net utan kostnad för vare sig enspelar- eller flerspelarläget.
-</description>
-<link>
-http://m3.awsdev.idg.se/2.1022/1.691976/starcraft-ii-blir-gratis-att-spela
-</link>
-<pubDate>Sat, 04 Nov 2017 08:00:00 +0000</pubDate>
-<category>Spel</category>
-<category>Underhållning/Spel</category>
-<category>Teknik</category>
-<dc:creator>Viktor Eriksson</dc:creator>
-</item>
-<item>
-<guid>
-http://computersweden.awsdev.idg.se/2.2683/1.691762/svenska-it-sakerhetsproffs
-</guid>
-<title>Här sätts svenska it-säkerhetsproffs i skolbänken</title>
-<description>
-Transportstyrelsens upphandlingshaveri, utpressningsvirus och envetna överbelastningsattacker. Så ser dagsläget ut. Men på Försvarshögskolan utbildas informationssäkerhetsproffs från myndigheter och företag för att kunna möta hoten bättre. 
-</description>
-<link>
-http://computersweden.awsdev.idg.se/2.2683/1.691762/svenska-it-sakerhetsproffs
-</link>
-<pubDate>Sat, 04 Nov 2017 05:01:00 +0000</pubDate>
-<category>Ekonomi/Branch</category>
-<dc:creator>Karin Lindström</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691762!imageUploader/3272512706.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://m3.awsdev.idg.se/2.1022/1.691980/sverige-krossade-storbritannien-i-overwatch-vm
-</guid>
-<title>Sverige krossade Storbritannien i Overwatch-VM</title>
-<description>
-Sverige vidare till semifinal i Overwatch efter att ha vunnit med 3-0 mot Storbritannien i kvartsfinalen.
-</description>
-<link>
-http://m3.awsdev.idg.se/2.1022/1.691980/sverige-krossade-storbritannien-i-overwatch-vm
-</link>
-<pubDate>Fri, 03 Nov 2017 20:48:04 +0000</pubDate>
-<category>Spel</category>
-<category>Underhållning/Spel</category>
-<category>Teknik</category>
-<dc:creator>Viktor Eriksson</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691980!imageUploader/3257234188.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.674912/uppat-for-apple-pa-borsen
-</guid>
-<title>
-Nytt rekord för Apples aktie efter kvartalsrapporten
-</title>
-<description>
-Marknaden ser positivt på Apples starka kvartalsrapport.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.674912/uppat-for-apple-pa-borsen
-</link>
-<pubDate>Fri, 03 Nov 2017 19:10:00 +0000</pubDate>
-<category>Apple</category>
-<category>Ekonomi</category>
-<category>iPhone</category>
-<category>Mobiltelefon</category>
-<category>Mobiltelefon</category>
-<category>iPhone</category>
-<category>Ekonomi/Branch</category>
-<dc:creator>Mikael Markander</dc:creator>
-</item>
-<item>
-<guid>
-http://m3.awsdev.idg.se/2.1022/1.691963/bmw-daimler-ford-och-volkswagen-bygger-laddningsnatverk-i-europa
-</guid>
-<title>
-BMW, Daimler, Ford och Volkswagen bygger laddningsnätverk i Europa
-</title>
-<description>
-Laddningsnätverket Ionity ska göra det mer attraktivt för européer att äga elfordon. Förväntas ha 400 laddstationer klara runt om i Europa vid 2020.
-</description>
-<link>
-http://m3.awsdev.idg.se/2.1022/1.691963/bmw-daimler-ford-och-volkswagen-bygger-laddningsnatverk-i-europa
-</link>
-<pubDate>Fri, 03 Nov 2017 15:27:01 +0000</pubDate>
-<category>Motor</category>
-<category>Teknik</category>
-<dc:creator>Viktor Eriksson</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691963!imageUploader/1135341849.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.691967/lurade-ai-google
-</guid>
-<title>
-Forskare lurade Googles AI att en sköldpadda var ett gevär – det är inte bra
-</title>
-<description>
-Enkla optiska illusioner kan helt förvirra en artificiell intelligens, visar en ny forskningsrapport. Problemet är svårt att komma runt och väcker frågan om vi verkligen kan lita på AI-system.
-</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.691967/lurade-ai-google
-</link>
-<pubDate>Fri, 03 Nov 2017 14:04:00 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Simon Campanello</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691967!imageUploader/3272512706.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://computersweden.awsdev.idg.se/2.2683/1.691964/veckans-chefer
-</guid>
-<title>
-Svenska mjukvarubolaget vill peta häktad storägare – här är veckans chefer
-</title>
-<description>
-Fortnox storägare Olof Hallrup har häktats för insiderbrott. Nu vill bolaget peta honom från styrelsen. Dessutom ska Prevas byta vd och E-hälsomyndigheten rustar i Kalmar.
-</description>
-<link>
-http://computersweden.awsdev.idg.se/2.2683/1.691964/veckans-chefer
-</link>
-<pubDate>Fri, 03 Nov 2017 13:53:28 +0000</pubDate>
-<category>CS Bransch</category>
-<category>Ekonomi/Branch</category>
-<dc:creator>Joakim Arstad Djurberg</dc:creator>
-</item>
-<item>
-<guid>
-http://m3.awsdev.idg.se/2.1022/1.691950/whatsapp-nere-i-hela-varlden
-</guid>
-<title>Whatsapp låg nere i hela världen </title>
-<description>
-Den Facebook-ägda meddelandeappen låg under fredagen nere i en timme för miljoner människor världen över.
-</description>
-<link>
-http://m3.awsdev.idg.se/2.1022/1.691950/whatsapp-nere-i-hela-varlden
-</link>
-<pubDate>Fri, 03 Nov 2017 13:45:36 +0000</pubDate>
-<category>Mobilt</category>
-<category>Mobilt/Handdator/Laptop</category>
-<category>Mjukvara</category>
-<category>Telekom</category>
-<category>Teknik</category>
-<dc:creator>Viktor Eriksson</dc:creator>
-</item>
-<item>
-<guid>
-http://computersweden.awsdev.idg.se/2.2683/1.691956/baklaxa-forsakringskassan
-</guid>
-<title>
-Bakläxa för Försäkringskassan – tvingas göra om stor upphandling
-</title>
-<description>
-Atea tog hem Försäkringskassans upphandling av datacenterinfrastruktur. Men igår kom en dom som tvingar myndigheten att göra om sin upphandling.
-</description>
-<link>
-http://computersweden.awsdev.idg.se/2.2683/1.691956/baklaxa-forsakringskassan
-</link>
-<pubDate>Fri, 03 Nov 2017 12:33:39 +0000</pubDate>
-<category>CS Bransch</category>
-<category>Ekonomi/Branch</category>
-<dc:creator>Joakim Arstad Djurberg</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691956!imageUploader/3272512706.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.691940/chrome-edge-krasch
-</guid>
-<title>
-Ouch! Microsoft-anställd tvingas installera Chrome mitt under demo när Edge kraschat
-</title>
-<description>
-Mitt under en pågående presentation från Microsoft kraschade Edge. Lösningen? Installera konkurrentens webbläsare.
-</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.691940/chrome-edge-krasch
-</link>
-<pubDate>Fri, 03 Nov 2017 11:59:57 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Simon Campanello</dc:creator>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.691941/bank-id-stodjer-inte-face-id--pa-grund-av-sakerheten
-</guid>
-<title>
-Bankid stödjer inte Face ID – på grund av säkerheten
-</title>
-<description>
-Iphone X-användarna får identifiera sig med kod framöver. Face ID måste nämligen gå igenom en säkerhetskontroll först.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.691941/bank-id-stodjer-inte-face-id--pa-grund-av-sakerheten
-</link>
-<pubDate>Fri, 03 Nov 2017 11:52:09 +0000</pubDate>
-<category>Apple</category>
-<category>iPhone</category>
-<category>iPhone</category>
-<category>Teknik</category>
-<dc:creator>Andréas Göransson</dc:creator>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.691908/iphone-7-hackad-pa-sakerhetskonferens
-</guid>
-<title>Iphone 7 hackad på säkerhetskonferens</title>
-<description>
-Årets upplaga av tävlingen Mobile Pwn2own har gått av stapeln vid Pacsec-konferensen i Tokyo, och två buggar i Safari på Iphone 7 gav segern.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.691908/iphone-7-hackad-pa-sakerhetskonferens
-</link>
-<pubDate>Fri, 03 Nov 2017 11:25:41 +0000</pubDate>
-<category>iPhone</category>
-<category>Teknik</category>
-<dc:creator>Anders Lundberg</dc:creator>
-</item>
-<item>
-<guid>
-http://m3.awsdev.idg.se/2.1022/1.691916/nu-kommer-pikachu-till-google-home-och-alexa
-</guid>
-<title>Nu kommer Pikachu till Google Home och Alexa</title>
-<description>
-Pikapi, Pikachu! Gratis-appen Pikachu Talk släpps till en början bara i Japan men dyker upp utanför landet under 2018.
-</description>
-<link>
-http://m3.awsdev.idg.se/2.1022/1.691916/nu-kommer-pikachu-till-google-home-och-alexa
-</link>
-<pubDate>Fri, 03 Nov 2017 11:23:53 +0000</pubDate>
-<category>Spel</category>
-<category>Hemelektronik</category>
-<category>Mjukvara</category>
-<category>Teknik</category>
-<dc:creator>Viktor Eriksson</dc:creator>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.691906/qualcomms-nya-anklagelse-mot-apple-delade-hemligheter-med-intel
-</guid>
-<title>
-Qualcomms nya anklagelse mot Apple: Delade hemligheter med Intel
-</title>
-<description>
-Qualcomm har lämnat in en ny stämningsansökan mot Apple i Kalifornien och den här gången handlar det om avtalsbrott kring företagshemligheter.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.691906/qualcomms-nya-anklagelse-mot-apple-delade-hemligheter-med-intel
-</link>
-<pubDate>Fri, 03 Nov 2017 10:06:56 +0000</pubDate>
-<category>Apple</category>
-<category>Ekonomi</category>
-<category>Ekonomi/Branch</category>
-<dc:creator>Anders Lundberg</dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.691932/kina-mobiler-apple
-</guid>
-<title>
-SPONSRAD TEST: Kineserna säljer mobiler som aldrig förr – medan Apple står och stampar
-</title>
-<description>
-Mobilförsäljningen i världen ökar, och det är de kinesiska tillverkarna som skrattar hela vägen till banken. Samtidigt hamnar småspelarna allt mer på efterkälken.
-</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.691932/kina-mobiler-apple
-</link>
-<pubDate>Fri, 03 Nov 2017 09:56:16 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Telenor Connexion </dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691932!imageUploader/3272512706.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://computersweden.awsdev.idg.se/2.2683/1.691929/hp-saljer-klassiskt-kontor
-</guid>
-<title>
-Sista sucken för gamla HP – säljer sitt klassiska kontor
-</title>
-<description>
-Efter alla nedskärningar lämnar nu HPE det kontor som varit bolagets bas de senaste 60 åren. I stället flyttar man in hos ett av de många bolag som förvärvats de senaste åren.
-</description>
-<link>
-http://computersweden.awsdev.idg.se/2.2683/1.691929/hp-saljer-klassiskt-kontor
-</link>
-<pubDate>Fri, 03 Nov 2017 09:22:03 +0000</pubDate>
-<category>CS Bransch</category>
-<category>Ekonomi/Branch</category>
-<dc:creator>Joakim Arstad Djurberg</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691929!imageUploader/3272512706.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://pcforalla.awsdev.idg.se/2.1054/1.691667/guide-fakturera-egen-firma
-</guid>
-<title>
-Fakturera enklare: Bästa online-tjänsterna för dig med företag
-</title>
-<description>
-En av de viktigaste bitarna i livet som egenföretagare eller frilans är att ta betalt. Vi går igenom vad du bör tänka på och vilka alternativ som finns.
-</description>
-<link>
-http://pcforalla.awsdev.idg.se/2.1054/1.691667/guide-fakturera-egen-firma
-</link>
-<pubDate>Fri, 03 Nov 2017 09:19:40 +0000</pubDate>
-<category>Ekonomi/Branch</category>
-<dc:creator>Anders Lundberg</dc:creator>
-<dc:creator>Evelina Galli</dc:creator>
-</item>
-<item>
-<guid>
-http://techworld.awsdev.idg.se/2.2524/1.691928/wordpress-hackare-uppdatera
-</guid>
-<title>
-Uppdatera Wordpress! Bugg låter hackare kapa din sajt
-</title>
-<description>
-Ett allvarligt säkerhetshål i gamla Wordpress-versioner har täppts till. Nu uppmanas alla användare att genast uppdatera sina sajter.
-</description>
-<link>
-http://techworld.awsdev.idg.se/2.2524/1.691928/wordpress-hackare-uppdatera
-</link>
-<pubDate>Fri, 03 Nov 2017 09:12:10 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Simon Campanello</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691928!imageUploader/1166522832.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://cio.awsdev.idg.se/2.1782/1.691883/cio-hitta-sidekick
-</guid>
-<title>
-Cio:er måste göra som superhjältarna – fixa en sidekick
-</title>
-<description>
-För att lyckas som cio så behöver du en stark vapendragaren. Det kan vara "den naturliga ersättaren", "den kloka rådgivaren" eller "den perfekta assistenten". Så här hittar och formar du it-avdelningens självklara nummer två.
-</description>
-<link>
-http://cio.awsdev.idg.se/2.1782/1.691883/cio-hitta-sidekick
-</link>
-<pubDate>Fri, 03 Nov 2017 09:06:51 +0000</pubDate>
-<category>Ekonomi/Branch</category>
-<dc:creator>Mattias Malmqvist</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691883!imageUploader/3272512706.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.671818/antivirus-mac
-</guid>
-<title>
-Allt om antivirus för Mac: Vilket är bästa valet (och behövs det ens?)
-</title>
-<description>
-Behövs antivirus för Mac? Om du vill skydda både dig själv och Windows-användare i din närhet kan det vara en bra idé. Här går vi igenom de olika alternativen.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.671818/antivirus-mac
-</link>
-<pubDate>Fri, 03 Nov 2017 09:00:00 +0000</pubDate>
-<category>Guide</category>
-<category>Mac OS X (generellt)</category>
-<category>Datorer</category>
-<category>Mac</category>
-<category>Program</category>
-<category>Macintosh</category>
-<category>Mjukvara</category>
-<category>Säkerhet</category>
-<category>Virus</category>
-<category>Teknik</category>
-<dc:creator>Anders Lundberg</dc:creator>
-<dc:creator>Samuel Nyberg</dc:creator>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.654699/apple-carplay
-</guid>
-<title>
-Så busenkelt fixar du Apples Carplay utan att köpa ny bil
-</title>
-<description>
-Nu kan du integrera din Iphone med bilen – även om den inte säljs med Apples Carplay. Så här gör du din bil mer Iphone-anpassad.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.654699/apple-carplay
-</link>
-<pubDate>Fri, 03 Nov 2017 08:59:00 +0000</pubDate>
-<category>iPhone</category>
-<category>Prylar tillbehör</category>
-<category>iPhone</category>
-<category>Hårdvara</category>
-<category>Teknik</category>
-<dc:creator>MacWorld- redaktionen</dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.691924/gravid-smart-klocka
-</guid>
-<title>Gravid? Kanske din smarta klocka har svaret </title>
-<description>
-Det där med att kissa på en sticka kan vara på väg bort. I alla fall om en grupp schweiziska forskare får som de vill. Med en smart klocka på armen kan kvinnan få beskedet. 
-</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.691924/gravid-smart-klocka
-</link>
-<pubDate>Fri, 03 Nov 2017 08:53:23 +0000</pubDate>
-<category>Ekonomi/Branch</category>
-<dc:creator>Karin Lindström</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691924!imageUploader/3770850066.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>http://m3.awsdev.idg.se/2.1022/1.669118/fars-dag	</guid>
-<title>Fars dag: 17 prylar för teknikintresserade pappor</title>
-<description>
-Den 12 november är det fars dag igen. Var ute i god tid i år och köp en bra farsdagpresent. Vi har gjort jobbet enklare för dig och luskat upp tio smarta och roliga prylar du kan ge i present.
-</description>
-<link>http://m3.awsdev.idg.se/2.1022/1.669118/fars-dag	</link>
-<pubDate>Fri, 03 Nov 2017 08:52:00 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Andreas Thors</dc:creator>
-<dc:creator>Evelina Galli</dc:creator>
-</item>
-<item>
-<guid>
-http://computersweden.awsdev.idg.se/2.2683/1.691895/it-proffs-byta-jobb
-</guid>
-<title>
-It-proffs pigga på att byta jobb – men bara om lönen är okej
-</title>
-<description>
-Över hälften av dem som jobbar inom it är sugna på att byta arbetsgivare inom de närmaste två åren. Över en tredjedel redan inom ett år. Men bara 30 procent söker jobb aktivt. 
-</description>
-<link>
-http://computersweden.awsdev.idg.se/2.2683/1.691895/it-proffs-byta-jobb
-</link>
-<pubDate>Fri, 03 Nov 2017 08:44:24 +0000</pubDate>
-<category>Ekonomi/Branch</category>
-<dc:creator>Karin Lindström</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691895!imageUploader/3272512706.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://computersweden.awsdev.idg.se/2.2683/1.691917/qualcomm-stammer-apple
-</guid>
-<title>
-Qualcomm stämmer Apple – anklagas för att ha läckt kod till Intel
-</title>
-<description>
-Nu inleds ytterligare en rättsprocess mellan bolagen. Qualcomm hävdar att Apple läckt affärshemligheter till ärkefienden Intel.
-</description>
-<link>
-http://computersweden.awsdev.idg.se/2.2683/1.691917/qualcomm-stammer-apple
-</link>
-<pubDate>Fri, 03 Nov 2017 08:41:20 +0000</pubDate>
-<category>CS Bransch</category>
-<category>Teknik</category>
-<dc:creator>Simon Campanello</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691917!imageUploader/3272512706.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.691905/iphone-x-redan-isarplockad--har-ar-videon
-</guid>
-<title>Iphone X redan isärplockad – här är videon</title>
-<description>
-Den första videon med en isärplockning av Iphone X är redan här, innan telefonen knappt har hamnat i händerna på de första kunderna.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.691905/iphone-x-redan-isarplockad--har-ar-videon
-</link>
-<pubDate>Fri, 03 Nov 2017 08:37:20 +0000</pubDate>
-<category>iPhone</category>
-<category>iPhone</category>
-<category>Teknik</category>
-<dc:creator>Anders Lundberg</dc:creator>
-</item>
-<item>
-<guid>
-http://techworld.awsdev.idg.se/2.2524/1.691920/windows-7-popular
-</guid>
-<title>
-7:an är fortfarande den populäraste Windows-versionen
-</title>
-<description>
-Ökade marknadsandelar för Windows 10 ligger nog högt på Microsofts önskelista i år. Och det kan behövas eftersom Windows7 fortfarande är väldigt populärt.
-</description>
-<link>
-http://techworld.awsdev.idg.se/2.2524/1.691920/windows-7-popular
-</link>
-<pubDate>Fri, 03 Nov 2017 08:35:57 +0000</pubDate>
-<category>Windows</category>
-<category>Teknik</category>
-<dc:creator>Lars Danielsson</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691920!imageUploader/3324561843.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://pcforalla.awsdev.idg.se/2.1054/1.691423/gratis-musikvideo-med-nytt-program
-</guid>
-<title>Nytt program hjälper dig hitta favorit-musikvideos</title>
-<description>
-Sugen på att lyssna på lite ny musik? Här är gratisprogrammet som hjälper dig hitta rätt.
-</description>
-<link>
-http://pcforalla.awsdev.idg.se/2.1054/1.691423/gratis-musikvideo-med-nytt-program
-</link>
-<pubDate>Fri, 03 Nov 2017 08:17:08 +0000</pubDate>
-<category>--> Publicera på PFA löp</category>
-<category>Program</category>
-<category>Surftips nytta</category>
-<category>Surftips nöje</category>
-<category>Windows</category>
-<category>Mjukvara</category>
-<category>Teknik</category>
-<dc:creator>Martin Appel</dc:creator>
-</item>
-<item>
-<guid>
-http://m3.awsdev.idg.se/2.1022/1.691914/twitter-anstalld-rakade-stanga-av-donald-trumps-konto
-</guid>
-<title>
-Sista dagen på jobbet: Då stängde Twitter-anställd av Donald Trumps konto
-</title>
-<description>
-Den amerikanske presidentens Twitterkonto upphörde att existera i 11 minuter.
-</description>
-<link>
-http://m3.awsdev.idg.se/2.1022/1.691914/twitter-anstalld-rakade-stanga-av-donald-trumps-konto
-</link>
-<pubDate>Fri, 03 Nov 2017 08:16:49 +0000</pubDate>
-<category>Internet/Webbtjänster</category>
-<category>Samhälle/Politik</category>
-<category>Teknik</category>
-<dc:creator>Viktor Eriksson</dc:creator>
-</item>
-<item>
-<guid>
-http://computersweden.awsdev.idg.se/2.2683/1.691875/konsulter-kronofogden
-</guid>
-<title>
-Konsultjättarna slarvar med betalningen – de här bolagen är värst
-</title>
-<description>
-De internationella konsultjättarnas svenska dotterbolag har samtliga hamnat hos Kronofogden i år. DXC har flest ärenden och HCL ska betala mest. Det visar myndighetens statistik.
-</description>
-<link>
-http://computersweden.awsdev.idg.se/2.2683/1.691875/konsulter-kronofogden
-</link>
-<pubDate>Fri, 03 Nov 2017 05:01:00 +0000</pubDate>
-<category>CS Bransch</category>
-<category>Ekonomi/Branch</category>
-<dc:creator>Joakim Arstad Djurberg</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691875!imageUploader/1894624733.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.691904/langa-koer-under-natten-for-iphone-x--och-kortade-leveranstider
-</guid>
-<title>
-Långa köer under natten för Iphone X – och kortade leveranstider
-</title>
-<description>
-Under natten har många börjat köa utanför Apple-butiker runt om i världen, med smått kaotiska scener i Singapore. Samtidigt syns kortare leveranstider.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.691904/langa-koer-under-natten-for-iphone-x--och-kortade-leveranstider
-</link>
-<pubDate>Fri, 03 Nov 2017 05:01:00 +0000</pubDate>
-<category>iPhone</category>
-<category>iPhone</category>
-<category>Teknik</category>
-<dc:creator>Anders Lundberg</dc:creator>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.691903/sa-blev-apples-kvartalsrapport
-</guid>
-<title>Urstark kvartalsrapport från Apple</title>
-<description>
-Apple sålde fler exemplar av både Iphone, Ipad och Mac jämfört med samma period förra året.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.691903/sa-blev-apples-kvartalsrapport
-</link>
-<pubDate>Thu, 02 Nov 2017 20:50:20 +0000</pubDate>
-<category>Apple</category>
-<category>Ekonomi</category>
-<category>iPad</category>
-<category>iPhone</category>
-<category>Mobiltelefon</category>
-<category>Surfplatta</category>
-<category>Mobiltelefon</category>
-<category>Surfplatta</category>
-<category>iPad</category>
-<category>iPhone</category>
-<category>Ekonomi/Branch</category>
-<dc:creator>Mikael Markander</dc:creator>
-</item>
-<item>
-<guid>
-http://m3.awsdev.idg.se/2.1022/1.691878/ryssland-infor-forbud-for-vpn-tjanster
-</guid>
-<title>
-Ryssland inför hårda begränsningar kring VPN-tjänster
-</title>
-<description>
-VPN-tjänster får inte längre skapa tillgång till webbsidor som är svartlistade i landet.
-</description>
-<link>
-http://m3.awsdev.idg.se/2.1022/1.691878/ryssland-infor-forbud-for-vpn-tjanster
-</link>
-<pubDate>Thu, 02 Nov 2017 14:42:46 +0000</pubDate>
-<category>Mjukvara</category>
-<category>Internet/Webbtjänster</category>
-<category>Säkerhet</category>
-<category>Juridik</category>
-<category>Samhälle/Politik</category>
-<category>Teknik</category>
-<dc:creator>Viktor Eriksson</dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.691894/telia-pts-domstol
-</guid>
-<title>
-Telia vill ta tvisten om "fri surf" till EU-domstolen
-</title>
-<description>
-Tvisten mellan Telia och PTS kan komma att gå hela vägen upp till EU-domstolen. Operatören vill veta om deras erbjudande om fri surf på sociala medier strider mot nätneutraliteten.
-</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.691894/telia-pts-domstol
-</link>
-<pubDate>Thu, 02 Nov 2017 14:33:14 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Simon Campanello</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691894!imageUploader/1894624733.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.691891/spand-forvantan-infor-kvallens-kvartalsrapport-fran-apple
-</guid>
-<title>
-Spänd förväntan inför kvällens kvartalsrapport från Apple
-</title>
-<description>
-Stora frågetecken kring hur det egentligen går med försäljningen av Iphone 8 och Iphone 8 Plus.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.691891/spand-forvantan-infor-kvallens-kvartalsrapport-fran-apple
-</link>
-<pubDate>Thu, 02 Nov 2017 14:26:14 +0000</pubDate>
-<category>Apple</category>
-<category>Ekonomi</category>
-<category>iPhone</category>
-<category>Mobiltelefon</category>
-<category>Mobiltelefon</category>
-<category>iPhone</category>
-<category>Ekonomi/Branch</category>
-<dc:creator>Mikael Markander</dc:creator>
-</item>
-<item>
-<guid>
-http://pcforalla.awsdev.idg.se/2.1054/1.691876/microsoft-vill-gora-ett-mindre-35mm-jack
-</guid>
-<title>
-Microsofts plan för att rädda 3,5mm-jacket: Göra det "töjbart"
-</title>
-<description>
-Företaget har patenterat flera olika lösningar för göra den omtyckta ljudingången tunnare.
-</description>
-<link>
-http://pcforalla.awsdev.idg.se/2.1054/1.691876/microsoft-vill-gora-ett-mindre-35mm-jack
-</link>
-<pubDate>Thu, 02 Nov 2017 13:47:55 +0000</pubDate>
-<category>Datorer</category>
-<category>Ljud  Bild</category>
-<category>Mobilt</category>
-<category>Datorer</category>
-<category>Mobilt/Handdator/Laptop</category>
-<category>Hårdvara</category>
-<category>Telekom</category>
-<category>Teknik</category>
-<dc:creator>Viktor Eriksson</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691876!imageUploader/3227232834.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://techworld.awsdev.idg.se/2.2524/1.691869/firefox-spara
-</guid>
-<title>Firefox gör det svårare att spåra dig på nätet</title>
-<description>
-Nätets annonsnätverk använder din webbläsares "fingeravtryck" för att kartlägga dig på nätet. Nu hämtar Mozilla inspiration från Tor sätter stopp för spårningen.
-</description>
-<link>
-http://techworld.awsdev.idg.se/2.2524/1.691869/firefox-spara
-</link>
-<pubDate>Thu, 02 Nov 2017 12:33:20 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Simon Campanello</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691869!imageUploader/3443949642.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://computersweden.awsdev.idg.se/2.2683/1.691860/silicon-valley-alkohol
-</guid>
-<title>
-SPONSRAD: Slutsupet i Silicon Valley - allt fler it-företag förbjuder alkohol
-</title>
-<description>
-Alkohol var tidigare en populär stämningshöjare på it-företagen i Silicon Valley – också på kontoren, men nu börjar fler företag se över sin policy och till och med förbjuda de här dryckerna.
-</description>
-<link>
-http://computersweden.awsdev.idg.se/2.2683/1.691860/silicon-valley-alkohol
-</link>
-<pubDate>Mon, 30 Oct 2017 10:26:00 +0000</pubDate>
-<category>CS Bransch</category>
-<category>Ekonomi/Branch</category>
-<dc:creator>Microsoft </dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691860!imageUploader/2512103156.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.691855/internet-utan-natneutralitet
-</guid>
-<title>"Så här kan internet se ut utan nätneutralitet"</title>
-<description>
-Vad sägs om en femtiolapp för obegränsad surf på Facebook? Portugisiska operatören Meo säljer mobildata efter intresse. En oroväckande trend som riskerar att strypa det fria internet och försvårar konkurrensen med nätjättarna, menar Simon Campanello.
-</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.691855/internet-utan-natneutralitet
-</link>
-<pubDate>Thu, 02 Nov 2017 12:02:49 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Simon Campanello</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691855!imageUploader/738595422.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.691850/apple-anpassar-garageband-for-iphone-x
-</guid>
-<title>Apple anpassar Garageband för Iphone X </title>
-<description>
-Den nya versionen bjuder även på nya funktioner och buggfixar.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.691850/apple-anpassar-garageband-for-iphone-x
-</link>
-<pubDate>Thu, 02 Nov 2017 11:25:22 +0000</pubDate>
-<category>iOS</category>
-<category>iPad</category>
-<category>iPhone</category>
-<category>Mobiltelefon</category>
-<category>Mac OS X (generellt)</category>
-<category>Mobiltelefon</category>
-<category>iOS</category>
-<category>iPad</category>
-<category>iPhone</category>
-<category>Teknik</category>
-<dc:creator>Mikael Markander</dc:creator>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.691857/forsta-betaversionen-av-tv-os-112-utskickad
-</guid>
-<title>Första betaversionen av TV OS 11.2 utskickad</title>
-<description>
-Nu har nästa version av mjukvaran för Apple TV börjat testas.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.691857/forsta-betaversionen-av-tv-os-112-utskickad
-</link>
-<pubDate>Thu, 02 Nov 2017 11:12:24 +0000</pubDate>
-<category>AppleTV</category>
-<category>AppleTV</category>
-<category>Teknik</category>
-<dc:creator>Mikael Markander</dc:creator>
-</item>
-<item>
-<guid>
-http://pcforalla.awsdev.idg.se/2.1054/1.691866/regeringen-storsatsar-pa-bredband-i-glesbygden
-</guid>
-<title>Regeringen storsatsar på bredband i glesbygden</title>
-<description>
-Utöver ett nytt regelverk ska 150 miljoner kronor öronmärkas för att hela befolkningen ska få tillgång till bredband.
-</description>
-<link>
-http://pcforalla.awsdev.idg.se/2.1054/1.691866/regeringen-storsatsar-pa-bredband-i-glesbygden
-</link>
-<pubDate>Thu, 02 Nov 2017 10:30:23 +0000</pubDate>
-<category>Datorer</category>
-<category>PC</category>
-<category>Mac</category>
-<category>Ekonomi/Branch</category>
-<dc:creator>Mikael Markander</dc:creator>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.683941/homepod-siri-hogtalare
-</guid>
-<title>
-Homepod kommer skicka vidare Siri-frågor till IOS som inte rör musik
-</title>
-<description>
-Med den nya betaversionen av IOS 11.2 har Apple även släppt en uppdaterad firmware till kommande Homepod, som avslöjar mer om hur Siri fungerar med högtalaren.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.683941/homepod-siri-hogtalare
-</link>
-<pubDate>Thu, 02 Nov 2017 10:30:00 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Anders Lundberg</dc:creator>
-<dc:creator>Andréas Göransson</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.683941!imageUploader/4071141559.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://techworld.awsdev.idg.se/2.2524/1.691838/spraket-utvecklare-hatar
-</guid>
-<title>Här är språket som utvecklare älskar att hata</title>
-<description>
-Kan du gissa vilket språk som är mest illa omtyckt på Stack Overflow? En ledtråd är att det var väldigt poppis i slutet av 90-talet.
-</description>
-<link>
-http://techworld.awsdev.idg.se/2.2524/1.691838/spraket-utvecklare-hatar
-</link>
-<pubDate>Thu, 02 Nov 2017 10:22:32 +0000</pubDate>
-<category>Systemutveckling</category>
-<category>Teknik</category>
-<dc:creator>Lars Danielsson</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691838!imageUploader/1894624733.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.691825/iphone-x-har-ny-exklusiv-ringsignal
-</guid>
-<title>Iphone X har en ny exklusiv ringsignal</title>
-<description>
-Användare som skaffar en Iphone X och öppnar den utan att återställa från backup kommer upptäcka en ny standard-ringsignal: Reflection.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.691825/iphone-x-har-ny-exklusiv-ringsignal
-</link>
-<pubDate>Thu, 02 Nov 2017 10:19:19 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Anders Lundberg</dc:creator>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.646427/basta-apparna-for-ny-iphone
-</guid>
-<title>
-Här är apparna som du måste ladda ner till din nya Iphone
-</title>
-<description>
-Har du köpt någon av de senaste Iphone-modellerna? Då är det hög tid att utrusta den med de bästa möjliga apparna för en mängd olika tillfällen. Vi listar guldkornen från App Store.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.646427/basta-apparna-for-ny-iphone
-</link>
-<pubDate>Thu, 02 Nov 2017 09:58:00 +0000</pubDate>
-<category>App Store</category>
-<category>iOS</category>
-<category>iPhone</category>
-<category>Mobilt</category>
-<category>Appar</category>
-<category>iOS</category>
-<category>iPhone</category>
-<category>Mobilt/Handdator/Laptop</category>
-<category>Mjukvara</category>
-<category>Teknik</category>
-<dc:creator>Anders Lundberg</dc:creator>
-<dc:creator>Andréas Göransson</dc:creator>
-<dc:creator>Evelina Galli</dc:creator>
-</item>
-<item>
-<guid>
-http://m3.awsdev.idg.se/2.1022/1.691836/fitbit-bekraftar-ska-tillverka-fler-smartklockor
-</guid>
-<title>Fitbit bekräftar: Ska tillverka fler smartklockor</title>
-<description>
-Ionic är inte nog. Nu bekräftar Fitbit att man ska tillverka ännu fler smartklockor, som ska säljas vid sidan om Ionic.
-</description>
-<link>
-http://m3.awsdev.idg.se/2.1022/1.691836/fitbit-bekraftar-ska-tillverka-fler-smartklockor
-</link>
-<pubDate>Thu, 02 Nov 2017 09:38:55 +0000</pubDate>
-<category>Hälsa</category>
-<category>Mobilt/Handdator/Laptop</category>
-<category>Hårdvara</category>
-<category>Mjukvara</category>
-<category>Teknik</category>
-<dc:creator>Samuel Nyberg</dc:creator>
-</item>
-<item>
-<guid>
-http://techworld.awsdev.idg.se/2.2524/1.691826/google-nytt-ai
-</guid>
-<title>Googles nya neuronnät ska ge ett nytt AI-språng</title>
-<description>
-Googles AI-guru Geoff Hinton propagerar för en ny teknik som ska vara otroligt mycket mer effektiv för att lära upp artificiell intelligens. "Kapselnätverk" kan lära sig mycket snabbare än dagens neuronnät.
-</description>
-<link>
-http://techworld.awsdev.idg.se/2.2524/1.691826/google-nytt-ai
-</link>
-<pubDate>Thu, 02 Nov 2017 09:29:56 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Simon Campanello</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691826!imageUploader/1894624733.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.688657/air-power
-</guid>
-<title>
-Nya uppgifter: Så mycket kan Airpower kosta i Sverige
-</title>
-<description>
-En polsk återförsäljare har läckt priset på Airpower, och helt billig verkar den inte bli.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.688657/air-power
-</link>
-<pubDate>Thu, 02 Nov 2017 09:22:00 +0000</pubDate>
-<category>iPhone</category>
-<category>Apple Watch</category>
-<category>iPhone</category>
-<category>Apple Watch</category>
-<category>Teknik</category>
-<dc:creator>Samuel Nyberg</dc:creator>
-<dc:creator>Anders Lundberg</dc:creator>
-</item>
-<item>
-<guid>
-http://computersweden.awsdev.idg.se/2.2683/1.691824/lenovo-fujitsu
-</guid>
-<title>
-Jätteaffär på pc-marknaden: Lenovo köper 51 procent av Fujitsus pc-enhet
-</title>
-<description>
-Kinesiska Lenovo säger att de har nått en överenskommelse att köpa en 51-procentsandel av japanska Fujitsus pc-enhet för upp till 269 miljoner dollar.
-</description>
-<link>
-http://computersweden.awsdev.idg.se/2.2683/1.691824/lenovo-fujitsu
-</link>
-<pubDate>Thu, 02 Nov 2017 09:20:17 +0000</pubDate>
-<category>CS Bransch</category>
-<category>Ekonomi/Branch</category>
-<dc:creator>Mattias Malmqvist</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691824!imageUploader/1162518169.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://m3.awsdev.idg.se/2.1022/1.691827/playstation-bossen-om-framtiden
-</guid>
-<title>
-Playstation-bossen om augmented reality, 4k och exklusiva spel
-</title>
-<description>
-Under Paris Games Week lanserade Sony en rad nya titlar. M3 fick en pratstund med Playstation-chefen Michael Denny om framtiden för vr och ar, varför 4k är så viktigt och hur Sony jobbar med tidiga utannonseringar.
-</description>
-<link>
-http://m3.awsdev.idg.se/2.1022/1.691827/playstation-bossen-om-framtiden
-</link>
-<pubDate>Thu, 02 Nov 2017 09:11:44 +0000</pubDate>
-<category>Spel</category>
-<category>Teknik</category>
-<dc:creator>Anders Wollner</dc:creator>
-</item>
-<item>
-<guid>
-http://macworld.awsdev.idg.se/2.1038/1.691805/storsta-fragetecknen-kring-iphone-x
-</guid>
-<title>
-Face ID, flärpen och skärmen – här är våra största frågetecken kring Iphone X
-</title>
-<description>
-Iphone X är alldeles, alldeles snart här. Men frågorna om hur Iphone X faktiskt kommer fungera är nästan lika många som vid lanseringen i september. Här är alla våra funderingar och farhågor inför Iphone X – som fortfarande inte fått ett svar.
-</description>
-<link>
-http://macworld.awsdev.idg.se/2.1038/1.691805/storsta-fragetecknen-kring-iphone-x
-</link>
-<pubDate>Thu, 02 Nov 2017 09:01:41 +0000</pubDate>
-<category>Apple</category>
-<category>iOS</category>
-<category>iPhone</category>
-<category>Mobiltelefon</category>
-<category>Mobiltelefon</category>
-<category>iOS</category>
-<category>iPhone</category>
-<category>Mobilt/Handdator/Laptop</category>
-<category>Hårdvara</category>
-<category>Teknik</category>
-<dc:creator>Samuel Nyberg</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691805!imageUploader/3231494420.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://m3.awsdev.idg.se/2.1022/1.691819/htc-u11-life
-</guid>
-<title>
-HTC släpper U11 Life: Mellanmobil med senaste Android
-</title>
-<description>
-Den taiwanesiska mobiltillverkaren följer upp klockrena flaggskeppet U11 med en nedtonad modell för en överkomlig prislapp. HTC U11 Life levereras också med Android 8 Oreo.
-</description>
-<link>
-http://m3.awsdev.idg.se/2.1022/1.691819/htc-u11-life
-</link>
-<pubDate>Thu, 02 Nov 2017 08:43:25 +0000</pubDate>
-<category>Ekonomi/Branch</category>
-<dc:creator>Billy Ekblom</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691819!imageUploader/2672702511.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://pcforalla.awsdev.idg.se/2.1054/1.691443/andra-ditt-barnsliga-namn-i-gmail
-</guid>
-<title>Så ändrar du ditt ogenomtänkta namn i Gmail</title>
-<description>
-Hade du för bråttom med namnvalet när du skapade ditt Gmailkonto? Det går att ändra.
-</description>
-<link>
-http://pcforalla.awsdev.idg.se/2.1054/1.691443/andra-ditt-barnsliga-namn-i-gmail
-</link>
-<pubDate>Thu, 02 Nov 2017 08:35:12 +0000</pubDate>
-<category>--> Publicera på PFA löp</category>
-<category>Enkel</category>
-<category>Internettjänster</category>
-<category>Internet/Webbtjänster</category>
-<category>Teknik</category>
-<dc:creator>Anders Reuterswärd</dc:creator>
-</item>
-<item>
-<guid>
-http://www.awsdev.idg.se/2.1085/1.691818/iphone-x-ansiktsdata
-</guid>
-<title>
-Apputvecklare kan få obehagligt mycket ansiktsdata från Iphone X
-</title>
-<description>
-All känslig data från ansiktsigenkänningen på Iphone X ska stanna kvar på telefonen. Men apputvecklare kan ändå få ta viss del av den, varnar säkerhetsexperter.
-</description>
-<link>
-http://www.awsdev.idg.se/2.1085/1.691818/iphone-x-ansiktsdata
-</link>
-<pubDate>Thu, 02 Nov 2017 08:10:03 +0000</pubDate>
-<category>Teknik</category>
-<dc:creator>Simon Campanello</dc:creator>
-<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691818!imageUploader/2718846826.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-<guid>
-http://m3.awsdev.idg.se/2.1022/1.691815/razer-phone
-</guid>
-<title>Här är Razers första smartphone – Razer Phone </title>
-<description>
-Razer har visat upp sin första smartphone, Razer Phone, som är speciellt anpassad för spel och underhållning med superskärm, massivt RAM-minne och jättebatteri.
-</description>
-<link>
-http://m3.awsdev.idg.se/2.1022/1.691815/razer-phone
-</link>
-<pubDate>Wed, 01 Nov 2017 21:23:28 +0000</pubDate>
-<category>Instagram-flöde</category>
-<category>Mobilt</category>
-<category>Spel</category>
-<category>Mobilt/Handdator/Laptop</category>
-<category>Spelkonsol</category>
-<category>Hårdvara</category>
-<category>Telekom</category>
-<category>Underhållning/Spel</category>
-<category>Teknik</category>
-<dc:creator>Viktor Eriksson</dc:creator>
-<dc:creator>Andréas Göransson</dc:creator>
-</item>
+	<title>Senaste nytt på M3</title>
+	<link>http://m3.awsdev.idg.se</link>
+	<language>sv</language>
+	<copyright>Copyright 1998-2018 INTERNATIONAL DATA GROUP. All Rights Reserved.</copyright>
+	<description>Senaste nyheter från M3-nätverket</description>
+	<atom:link href="http://m3.awsdev.idg.se/1.664514?m=wrss&amp;doRender=true" rel="self" type="application/rss+xml" />
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.692035/black-friday-2017-fynda-tv--har-gor-du-basta-klippen</guid>
+		
+			<title>Black Friday 2017: Uppdaterad pufftext : Fynda TV – här gör du bästa klippen</title>
+			<description>Dags att fynda ny tv? Vi har samlat bästa erbjudandena från de olika butikerna här!</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.692035/black-friday-2017-fynda-tv--har-gor-du-basta-klippen</link>
+			<pubDate>Mon, 11 Dec 2017 08:58:34 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Teknik</category>
+			
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691995/uppgifter-amazon-vill-gora-tv-serie-av-sagan-om-ringen</guid>
+		
+			<title>Uppgifter: Amazon vill göra tv-serie av Sagan om Ringen</title>
+			<description>Streamingjättarna med Amazon i spetsen cirkulerar runt J.R.R. Tolkiens verk.  Men tv-serierättigheterna kommer med begränsningar för vissa karaktärer.</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691995/uppgifter-amazon-vill-gora-tv-serie-av-sagan-om-ringen</link>
+			<pubDate>Sun, 5 Nov 2017 13:44:42 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691995!teaserImage/imageTypeSelector/localImage/1786836880.jpg" type="image/jpeg" length="110581" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691994/bugg-kraschar-apple-watch-nar-siri-fragas-om-vadret</guid>
+		
+			<title>Bugg kraschar Apple Watch när Siri frågas om vädret</title>
+			<description>När användare frågat Siri om det regnar har Apple Watch kraschat. Här i Sverige verkar vi dock inte vara påverkade.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691994/bugg-kraschar-apple-watch-nar-siri-fragas-om-vadret</link>
+			<pubDate>Sun, 5 Nov 2017 10:12:29 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple</category>
+			
+				<category>Apple Watch</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691994!teaserImage/imageTypeSelector/localImage/2021492029.jpg" type="image/jpeg" length="16342" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691993/sociala-medier-invaderas-av-animoji-karaoke</guid>
+		
+			<title>Animoji-karaoke tar över internet</title>
+			<description>Apples nya animojis har blivit en stor hit på internet.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691993/sociala-medier-invaderas-av-animoji-karaoke</link>
+			<pubDate>Sun, 5 Nov 2017 09:55:36 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple</category>
+			
+				<category>iOS</category>
+			
+				<category>iPhone</category>
+			
+				<category>iOS</category>
+			
+				<category>iPhone</category>
+			
+				<category>Mjukvara</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691993!teaserImage/imageTypeSelector/localImage/4013291727.jpg" type="image/jpeg" length="47019" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691984/xbox-one-x-och-nya-mobiler--har-ar-veckans-viktigaste-nyheter</guid>
+		
+			<title>Xbox One X och nya mobiler – här är veckans viktigaste nyheter</title>
+			<description>Det här har hänt de senaste sju dagarna på elektronikfronten.</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691984/xbox-one-x-och-nya-mobiler--har-ar-veckans-viktigaste-nyheter</link>
+			<pubDate>Sun, 5 Nov 2017 08:52:00 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Datorer</category>
+			
+				<category>Mobilt</category>
+			
+				<category>Spel</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691984!teaserImage/imageTypeSelector/localImage/3976516836.jpg" type="image/jpeg" length="33470" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://pcforalla.awsdev.idg.se/2.1054/1.691427/gratis-barnbocker-surfplatta</guid>
+		
+			<title>Här hittar du gratis barnböcker för surfplattan</title>
+			<description>E-böcker behöver inte kosta skjortan. Med den nya appen Bibblix kan du låna gratis barnböcker utan kostnad. Men det finns förstås en hake.</description>
+			<link>http://pcforalla.awsdev.idg.se/2.1054/1.691427/gratis-barnbocker-surfplatta</link>
+			<pubDate>Sun, 5 Nov 2017 08:05:00 +0000</pubDate>
+			
+				<category>PC för Alla</category>
+			
+			
+				<category>--&gt; Publicera på PFA löp</category>
+			
+				<category>Mobilt</category>
+			
+				<category>Appar</category>
+			
+				<category>Dagens app</category>
+			
+				<category>Internet/Webbtjänster</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691427!teaserImage/imageTypeSelector/localImage/458573975.jpg" type="image/jpeg" length="52166" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691983/har-ar-veckans-viktigaste-apple-nyheter-v44</guid>
+		
+			<title>Här är veckans viktigaste Apple-nyheter (v.44)</title>
+			<description>Det här har hänt de senaste sju dagarna i Applevärlden.
+</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691983/har-ar-veckans-viktigaste-apple-nyheter-v44</link>
+			<pubDate>Sun, 5 Nov 2017 08:04:00 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691983!teaserImage/imageTypeSelector/localImage/3698684001.jpg" type="image/jpeg" length="147064" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://pcforalla.awsdev.idg.se/2.1054/1.479041/sa-julstadar-du-datorn---pa-bara-15-minuter</guid>
+		
+			<title>Guide: Vinterstäda datorn med det populära Ccleaner</title>
+			<description>Om datorn börjar bli långsam kan en storstädning vara på sin plats. Så här gör du med gratisverktyget Ccleaner.</description>
+			<link>http://pcforalla.awsdev.idg.se/2.1054/1.479041/sa-julstadar-du-datorn---pa-bara-15-minuter</link>
+			<pubDate>Sun, 5 Nov 2017 08:01:00 +0000</pubDate>
+			
+				<category>PC för Alla</category>
+			
+			
+				<category>--&gt; Publicera på PFA löp</category>
+			
+				<category>Trimning</category>
+			
+				<category>Enkel</category>
+			
+				<category>Trimning</category>
+			
+				<category>Mjukvara</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.479041!teaserImage/imageTypeSelector/localImage/1629796890.jpg" type="image/jpeg" length="58510" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691991/brons-till-sverige-i-overwatch-vm</guid>
+		
+			<title>Brons till Sverige i Overwatch-VM</title>
+			<description>Besegrade Frankrike med 4 - 2 i en &#034;bäst av fem&#034;-match. VM-segern gick till Sydkorea som vann över Kanada i en bäst av sju match. </description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691991/brons-till-sverige-i-overwatch-vm</link>
+			<pubDate>Sun, 5 Nov 2017 06:00:00 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>E-sport</category>
+			
+				<category>Spel</category>
+			
+				<category>Underhållning/Spel</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691991!teaserImage/imageTypeSelector/localImage/898263622.jpg" type="image/jpeg" length="155331" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691979/logitech-slapper-virtual-reality-tangentbord</guid>
+		
+			<title>Logitech släpper virtual reality-tangentbord</title>
+			<description>Logitech Bridge gör så att du kan se ditt tangentbord även i virtual reality när du använder HTC Vive.  Gäller för alla spel och appar som använder Steamvr. </description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691979/logitech-slapper-virtual-reality-tangentbord</link>
+			<pubDate>Sat, 4 Nov 2017 15:18:27 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Spel</category>
+			
+				<category>Hårdvara</category>
+			
+				<category>Mjukvara</category>
+			
+				<category>Underhållning/Spel</category>
+			
+				<category>Medieproduktion</category>
+			
+				<category>Datortillbehör</category>
+			
+				<category>Spelkonsol</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691979!teaserImage/imageTypeSelector/localImage/2071417648.jpg" type="image/jpeg" length="158193" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691982/blizzard-backar-bandet--introducerar-klassiska-servrar-till-world-of-warcraft</guid>
+		
+			<title>Blizzard backar bandet – introducerar klassiska servrar till World of Warcraft</title>
+			<description>Nu kommer mer vaniljspel åt folket. Men när servern är redo är inte helt klart.</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691982/blizzard-backar-bandet--introducerar-klassiska-servrar-till-world-of-warcraft</link>
+			<pubDate>Sat, 4 Nov 2017 12:54:35 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Spel</category>
+			
+				<category>Underhållning/Spel</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691982!teaserImage/imageTypeSelector/localImage/3765216538.jpg" type="image/jpeg" length="23110" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691977/tjuvar-stal-iphone-x-leverans-fran-parkerad-lastbil</guid>
+		
+			<title>Tjuvar stal Iphone X-leverans från parkerad lastbil</title>
+			<description>En grupp tjuvar slog i onsdags till mot en UPS-lastbil som var på väg till en Apple-butik i San Francisco med en leverans av företagets nya mobil.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691977/tjuvar-stal-iphone-x-leverans-fran-parkerad-lastbil</link>
+			<pubDate>Sat, 4 Nov 2017 10:22:00 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple</category>
+			
+				<category>iPhone</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691977!teaserImage/imageTypeSelector/localImage/3691005422.jpg" type="image/jpeg" length="50839" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://pcforalla.awsdev.idg.se/2.1054/1.691418/smart-matlagningstips-kolla-vad-maten-vager</guid>
+		
+			<title>Smart matlagningstips: Här ser du vad ingredienserna väger</title>
+			<description>Har du problem att dosera rätt nät du lagar mat? Här är sajten som hjälper dig.</description>
+			<link>http://pcforalla.awsdev.idg.se/2.1054/1.691418/smart-matlagningstips-kolla-vad-maten-vager</link>
+			<pubDate>Sat, 4 Nov 2017 08:34:00 +0000</pubDate>
+			
+				<category>PC för Alla</category>
+			
+			
+				<category>--&gt; Publicera på PFA löp</category>
+			
+				<category>Surftips nytta</category>
+			
+				<category>Internet/Webbtjänster</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691418!teaserImage/imageTypeSelector/localImage/800034756.jpg" type="image/jpeg" length="64332" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://pcforalla.awsdev.idg.se/2.1054/1.689263/facebook-sakerhetskoll</guid>
+		
+			<title>Så skippar du Facebooks jobbiga säkerhetskoll (på egen risk)</title>
+			<description>Du bestämmer själv hur hög säkerhet du vill ha på Facebook och Google. Så här gör du för att höja eller sänka den.</description>
+			<link>http://pcforalla.awsdev.idg.se/2.1054/1.689263/facebook-sakerhetskoll</link>
+			<pubDate>Sat, 4 Nov 2017 08:01:00 +0000</pubDate>
+			
+				<category>PC för Alla</category>
+			
+			
+				<category>--&gt; Publicera på PFA löp</category>
+			
+				<category>Datorer</category>
+			
+				<category>Datorer</category>
+			
+				<category>Enkel</category>
+			
+				<category>Säkerhet</category>
+			
+				<category>Internet/Webbtjänster</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.689263!teaserImage/imageTypeSelector/localImage/3084840119.jpg" type="image/jpeg" length="44315" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691389/bmw320d-test</guid>
+		
+			<title>Test: BMW 320d – analog körglädje i slimmad kombi</title>
+			<description>BMW 320d är en av tillverkarens absoluta storsäljare. M3 har testat kombin och vi konstaterar att körglädjen är svårslagen i den här bilklassen.</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691389/bmw320d-test</link>
+			<pubDate>Sat, 4 Nov 2017 08:00:00 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Motor</category>
+			
+				<category>Hårdvara</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691389!teaserImage/imageTypeSelector/localImage/3573449485.jpg" type="image/jpeg" length="81195" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691976/starcraft-ii-blir-gratis-att-spela</guid>
+		
+			<title>Starcraft II blir gratis att spela</title>
+			<description>Från och med 14 november kan du ladda ner Starcraft II: Wings of Liberty via Battle.net utan kostnad för vare sig enspelar- eller flerspelarläget. </description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691976/starcraft-ii-blir-gratis-att-spela</link>
+			<pubDate>Sat, 4 Nov 2017 08:00:00 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Spel</category>
+			
+				<category>Underhållning/Spel</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691976!teaserImage/imageTypeSelector/localImage/3201451977.jpg" type="image/jpeg" length="146105" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691980/sverige-krossade-storbritannien-i-overwatch-vm</guid>
+		
+			<title>Sverige krossade Storbritannien i Overwatch-VM</title>
+			<description>Sverige vidare till semifinal i Overwatch efter att ha vunnit med 3-0 mot Storbritannien i kvartsfinalen. </description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691980/sverige-krossade-storbritannien-i-overwatch-vm</link>
+			<pubDate>Fri, 3 Nov 2017 20:48:04 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Spel</category>
+			
+				<category>Underhållning/Spel</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691980!teaserImage/imageTypeSelector/localImage/238855735.jpg" type="image/jpeg" length="355622" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.674912/uppat-for-apple-pa-borsen</guid>
+		
+			<title>Nytt rekord för Apples aktie efter kvartalsrapporten</title>
+			<description>Marknaden ser positivt på Apples starka kvartalsrapport.
+</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.674912/uppat-for-apple-pa-borsen</link>
+			<pubDate>Fri, 3 Nov 2017 19:10:00 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple</category>
+			
+				<category>Ekonomi</category>
+			
+				<category>iPhone</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>iPhone</category>
+			
+				<category>Ekonomi/Branch</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.674912!teaserImage/imageTypeSelector/localImage/2087406702.jpg" type="image/jpeg" length="128517" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691963/bmw-daimler-ford-och-volkswagen-bygger-laddningsnatverk-i-europa</guid>
+		
+			<title>BMW, Daimler, Ford och Volkswagen bygger laddningsnätverk i Europa</title>
+			<description>Laddningsnätverket Ionity ska göra det mer attraktivt för européer att äga elfordon. Förväntas ha 400 laddstationer klara runt om i Europa vid 2020.  </description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691963/bmw-daimler-ford-och-volkswagen-bygger-laddningsnatverk-i-europa</link>
+			<pubDate>Fri, 3 Nov 2017 15:27:01 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Motor</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691963!teaserImage/imageTypeSelector/localImage/3365555715.jpg" type="image/jpeg" length="122228" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691950/whatsapp-nere-i-hela-varlden</guid>
+		
+			<title>Whatsapp låg nere i hela världen</title>
+			<description>Den Facebook-ägda meddelandeappen låg under fredagen nere i en timme för miljoner människor världen över.</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691950/whatsapp-nere-i-hela-varlden</link>
+			<pubDate>Fri, 3 Nov 2017 13:45:36 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Mobilt</category>
+			
+				<category>Mjukvara</category>
+			
+				<category>Telekom</category>
+			
+				<category>Mobilt/Handdator/Laptop</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691950!teaserImage/imageTypeSelector/localImage/2128909125.jpg" type="image/jpeg" length="147642" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.688647/iphone-x</guid>
+		
+			<title>Vi testar Iphone X: Dyr, lyxig – och riktigt, riktigt bra!</title>
+			<description>Dyr och lyxig, men också väldigt bra. Iphone X är det absolut bästa Apple har att erbjuda år 2017 och ger en försmak av framtidens Iphone redan i dag. Vi testar Iphone X!</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.688647/iphone-x</link>
+			<pubDate>Fri, 3 Nov 2017 12:48:00 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Instagram-flöde</category>
+			
+				<category>iPhone</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>iPhone</category>
+			
+				<category>Hårdvara</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.688647!teaserImage/imageTypeSelector/localImage/646043355.jpg" type="image/jpeg" length="28433" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://studio.awsdev.idg.se/2.1078/1.691919/tips-kompression-for-nyborjare</guid>
+		
+			<title>Nybörjartips: Fem saker att tänka på när du använder en kompressor</title>
+			<description>Välkommen till Fredagstipset, en återkommande serie där Studios bloggare Jon Rinneby delar med sig av olika inspelnings- och mixningstips.</description>
+			<link>http://studio.awsdev.idg.se/2.1078/1.691919/tips-kompression-for-nyborjare</link>
+			<pubDate>Fri, 2 Mar 2018 09:43:00 +0000</pubDate>
+			
+				<category>Studio</category>
+			
+			
+				<category>Inspelning</category>
+			
+				<category>Mastring</category>
+			
+				<category>Mixning</category>
+			
+				<category>Tips &amp; guider</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691919!teaserImage/imageTypeSelector/localImage/2340313185.jpg" type="image/jpeg" length="37937" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691941/bank-id-stodjer-inte-face-id--pa-grund-av-sakerheten</guid>
+		
+			<title>Bankid med nyllet? Glöm det, appen lirar inte med Face ID ännu</title>
+			<description>Iphone X-användarna får identifiera sig med kod framöver. Face ID måste nämligen gå igenom en säkerhetskontroll först.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691941/bank-id-stodjer-inte-face-id--pa-grund-av-sakerheten</link>
+			<pubDate>Fri, 3 Nov 2017 11:52:09 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple</category>
+			
+				<category>iPhone</category>
+			
+				<category>iPhone</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691941!teaserImage/imageTypeSelector/localImage/3695755839.jpg" type="image/jpeg" length="125408" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691908/iphone-7-hackad-pa-sakerhetskonferens</guid>
+		
+			<title>Iphone 7 hackad på säkerhetskonferens</title>
+			<description>Årets upplaga av tävlingen Mobile Pwn2own har gått av stapeln vid Pacsec-konferensen i Tokyo, och två buggar i Safari på Iphone 7 gav segern.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691908/iphone-7-hackad-pa-sakerhetskonferens</link>
+			<pubDate>Fri, 3 Nov 2017 11:25:41 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>iPhone</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691908!teaserImage/imageTypeSelector/localImage/3645905607.jpg" type="image/jpeg" length="23075" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691916/nu-kommer-pikachu-till-google-home-och-alexa</guid>
+		
+			<title>Nu kommer Pikachu till Google Home och Alexa</title>
+			<description>Pikapi, Pikachu! Gratis-appen Pikachu Talk släpps till en början bara i Japan men dyker upp utanför landet under 2018.  </description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691916/nu-kommer-pikachu-till-google-home-och-alexa</link>
+			<pubDate>Fri, 3 Nov 2017 11:23:53 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Spel</category>
+			
+				<category>Mjukvara</category>
+			
+				<category>Hemelektronik</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691916!teaserImage/imageTypeSelector/localImage/4263021397.jpg" type="image/jpeg" length="87757" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691906/qualcomms-nya-anklagelse-mot-apple-delade-hemligheter-med-intel</guid>
+		
+			<title>Qualcomms nya anklagelse mot Apple: Delade hemligheter med Intel</title>
+			<description>Qualcomm har lämnat in en ny stämningsansökan mot Apple i Kalifornien och den här gången handlar det om avtalsbrott kring företagshemligheter.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691906/qualcomms-nya-anklagelse-mot-apple-delade-hemligheter-med-intel</link>
+			<pubDate>Fri, 3 Nov 2017 10:06:56 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple</category>
+			
+				<category>Ekonomi</category>
+			
+				<category>Ekonomi/Branch</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691906!teaserImage/imageTypeSelector/localImage/2050411203.jpg" type="image/jpeg" length="26256" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://pcforalla.awsdev.idg.se/2.1054/1.691667/guide-fakturera-egen-firma</guid>
+		
+			<title>Fakturera enklare: Bästa online-tjänsterna för dig med företag</title>
+			<description>En av de viktigaste bitarna i livet som egenföretagare eller frilans är att ta betalt. Vi går igenom vad du bör tänka på och vilka alternativ som finns.</description>
+			<link>http://pcforalla.awsdev.idg.se/2.1054/1.691667/guide-fakturera-egen-firma</link>
+			<pubDate>Fri, 3 Nov 2017 09:19:40 +0000</pubDate>
+			
+				<category>PC för Alla</category>
+			
+			
+				<category>Ekonomi/Branch</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691667!teaserImage/imageTypeSelector/localImage/1190650493.jpg" type="image/jpeg" length="45809" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.671818/antivirus-mac</guid>
+		
+			<title>Allt om antivirus för Mac: Vilket är bästa valet (och behövs det ens?)</title>
+			<description>Behövs antivirus för Mac? Om du vill skydda både dig själv och Windows-användare i din närhet kan det vara en bra idé. Här går vi igenom de olika alternativen.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.671818/antivirus-mac</link>
+			<pubDate>Fri, 3 Nov 2017 09:00:00 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Guide</category>
+			
+				<category>Mac OS X (generellt)</category>
+			
+				<category>Datorer</category>
+			
+				<category>Mac</category>
+			
+				<category>Program</category>
+			
+				<category>Mjukvara</category>
+			
+				<category>Säkerhet</category>
+			
+				<category>Virus</category>
+			
+				<category>Macintosh</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.671818!teaserImage/imageTypeSelector/localImage/646043355.jpg" type="image/jpeg" length="18800" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.654699/apple-carplay</guid>
+		
+			<title>Så busenkelt fixar du Apples Carplay utan att köpa ny bil</title>
+			<description>Nu kan du integrera din Iphone med bilen – även om den inte säljs med Apples Carplay. Så här gör du din bil mer Iphone-anpassad.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.654699/apple-carplay</link>
+			<pubDate>Fri, 3 Nov 2017 08:59:00 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>iPhone</category>
+			
+				<category>Prylar &amp; tillbehör</category>
+			
+				<category>iPhone</category>
+			
+				<category>Hårdvara</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.654699!teaserImage/imageTypeSelector/localImage/339812962.jpg" type="image/jpeg" length="36340" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.669118/fars-dag</guid>
+		
+			<title>Fars dag: 17 prylar för tekniknördiga pappor</title>
+			<description>Den 12 november är det fars dag igen. Var ute i god tid i år och köp en bra farsdagpresent. Vi har gjort jobbet enklare för dig och luskat upp tio smarta och roliga prylar du kan ge i present.</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.669118/fars-dag</link>
+			<pubDate>Fri, 3 Nov 2017 08:52:00 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.669118!teaserImage/imageTypeSelector/localImage/2554682482.jpg" type="image/jpeg" length="55349" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691905/iphone-x-redan-isarplockad--har-ar-videon</guid>
+		
+			<title>Iphone X redan isärplockad – här är videon</title>
+			<description>Den första videon med en isärplockning av Iphone X är redan här, innan telefonen knappt har hamnat i händerna på de första kunderna.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691905/iphone-x-redan-isarplockad--har-ar-videon</link>
+			<pubDate>Fri, 3 Nov 2017 08:37:20 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>iPhone</category>
+			
+				<category>iPhone</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691905!teaserImage/imageTypeSelector/localImage/267492651.jpg" type="image/jpeg" length="25663" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.684363/xbox-one-x-ar-bekraftad</guid>
+		
+			<title>Xbox One X – ett prestandamonster utan dess like</title>
+			<description>Xbox One X är ett kraftpaket som utklassar Playstation 4 Pro i prestanda, men innebär det automatiskt succé? Vi har hårdtestat Microsofts senaste konsol.</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.684363/xbox-one-x-ar-bekraftad</link>
+			<pubDate>Fri, 3 Nov 2017 08:27:00 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Spel</category>
+			
+				<category>Underhållning/Spel</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.684363!teaserImage/imageTypeSelector/localImage/4131317482.jpg" type="image/jpeg" length="21900" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://pcforalla.awsdev.idg.se/2.1054/1.691423/gratis-musikvideo-med-nytt-program</guid>
+		
+			<title>Nytt program hjälper dig hitta favorit-musikvideos</title>
+			<description>Sugen på att lyssna på lite ny musik? Här är gratisprogrammet som hjälper dig hitta rätt.</description>
+			<link>http://pcforalla.awsdev.idg.se/2.1054/1.691423/gratis-musikvideo-med-nytt-program</link>
+			<pubDate>Fri, 3 Nov 2017 08:17:08 +0000</pubDate>
+			
+				<category>PC för Alla</category>
+			
+			
+				<category>--&gt; Publicera på PFA löp</category>
+			
+				<category>Program</category>
+			
+				<category>Surftips nytta</category>
+			
+				<category>Surftips nöje</category>
+			
+				<category>Mjukvara</category>
+			
+				<category>Windows</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691423!teaserImage/imageTypeSelector/localImage/3907789071.jpg" type="image/jpeg" length="31115" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691914/twitter-anstalld-rakade-stanga-av-donald-trumps-konto</guid>
+		
+			<title>Sista dagen på jobbet: Då stängde Twitter-anställd av Donald Trumps konto</title>
+			<description>Den amerikanske presidentens Twitterkonto upphörde att existera i 11 minuter.</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691914/twitter-anstalld-rakade-stanga-av-donald-trumps-konto</link>
+			<pubDate>Fri, 3 Nov 2017 08:16:49 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Internet/Webbtjänster</category>
+			
+				<category>Samhälle/Politik</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691914!teaserImage/imageTypeSelector/localImage/2257312039.jpg" type="image/jpeg" length="113176" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691904/langa-koer-under-natten-for-iphone-x--och-kortade-leveranstider</guid>
+		
+			<title>Långa köer under natten för Iphone X – och kortade leveranstider</title>
+			<description>Under natten har många börjat köa utanför Apple-butiker runt om i världen, med smått kaotiska scener i Singapore. Samtidigt syns kortare leveranstider.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691904/langa-koer-under-natten-for-iphone-x--och-kortade-leveranstider</link>
+			<pubDate>Fri, 3 Nov 2017 05:01:00 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>iPhone</category>
+			
+				<category>iPhone</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691904!teaserImage/imageTypeSelector/localImage/948475524.jpg" type="image/jpeg" length="52970" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.681358/call-of-duty-wwii</guid>
+		
+			<title>Activision tar Call of Duty tillbaka till sina rötter – vi testar CoD: WW2</title>
+			<description>I den senaste delen i Call of Duty går spelserien tillbaka till rötterna. M3 har spelat en riktigt välgjord titel – men som också lider av lite identitetskris. </description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.681358/call-of-duty-wwii</link>
+			<pubDate>Fri, 3 Nov 2017 04:00:00 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Spel</category>
+			
+				<category>Underhållning/Spel</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.681358!teaserImage/imageTypeSelector/localImage/646043355.jpg" type="image/jpeg" length="63466" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691903/sa-blev-apples-kvartalsrapport</guid>
+		
+			<title>Urstark kvartalsrapport från Apple</title>
+			<description>Apple sålde fler exemplar av både Iphone, Ipad och Mac jämfört med samma period förra året.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691903/sa-blev-apples-kvartalsrapport</link>
+			<pubDate>Thu, 2 Nov 2017 20:50:20 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple</category>
+			
+				<category>Ekonomi</category>
+			
+				<category>iPad</category>
+			
+				<category>iPhone</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>Surfplatta</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>Surfplatta</category>
+			
+				<category>iPad</category>
+			
+				<category>iPhone</category>
+			
+				<category>Ekonomi/Branch</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691903!teaserImage/imageTypeSelector/localImage/3775541769.jpg" type="image/jpeg" length="42708" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691878/ryssland-infor-forbud-for-vpn-tjanster</guid>
+		
+			<title>Ryssland inför hårda begränsningar kring VPN-tjänster</title>
+			<description>VPN-tjänster får inte längre skapa tillgång till webbsidor som är svartlistade i landet. </description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691878/ryssland-infor-forbud-for-vpn-tjanster</link>
+			<pubDate>Thu, 2 Nov 2017 14:42:46 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Mjukvara</category>
+			
+				<category>Internet/Webbtjänster</category>
+			
+				<category>Säkerhet</category>
+			
+				<category>Juridik</category>
+			
+				<category>Samhälle/Politik</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691878!teaserImage/imageTypeSelector/localImage/3556456242.jpg" type="image/jpeg" length="141073" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691891/spand-forvantan-infor-kvallens-kvartalsrapport-fran-apple</guid>
+		
+			<title>Spänd förväntan inför kvällens kvartalsrapport från Apple</title>
+			<description>Stora frågetecken kring hur det egentligen går med försäljningen av Iphone 8 och Iphone 8 Plus.
+</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691891/spand-forvantan-infor-kvallens-kvartalsrapport-fran-apple</link>
+			<pubDate>Thu, 2 Nov 2017 14:26:14 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple</category>
+			
+				<category>Ekonomi</category>
+			
+				<category>iPhone</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>iPhone</category>
+			
+				<category>Ekonomi/Branch</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691891!teaserImage/imageTypeSelector/localImage/886268118.jpg" type="image/jpeg" length="14745" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://pcforalla.awsdev.idg.se/2.1054/1.691876/microsoft-vill-gora-ett-mindre-35mm-jack</guid>
+		
+			<title>Microsofts plan för att rädda 3,5mm-jacket: Göra det &#034;töjbart&#034;</title>
+			<description>Företaget har patenterat flera olika lösningar för göra den omtyckta ljudingången tunnare. </description>
+			<link>http://pcforalla.awsdev.idg.se/2.1054/1.691876/microsoft-vill-gora-ett-mindre-35mm-jack</link>
+			<pubDate>Thu, 2 Nov 2017 13:47:55 +0000</pubDate>
+			
+				<category>PC för Alla</category>
+			
+			
+				<category>Datorer</category>
+			
+				<category>Ljud &amp; Bild</category>
+			
+				<category>Mobilt</category>
+			
+				<category>Datorer</category>
+			
+				<category>Hårdvara</category>
+			
+				<category>Telekom</category>
+			
+				<category>Mobilt/Handdator/Laptop</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691876!teaserImage/imageTypeSelector/localImage/1044348962.jpg" type="image/jpeg" length="55882" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691850/apple-anpassar-garageband-for-iphone-x</guid>
+		
+			<title>Apple anpassar Garageband för Iphone X</title>
+			<description>Den nya versionen bjuder även på nya funktioner och buggfixar.
+</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691850/apple-anpassar-garageband-for-iphone-x</link>
+			<pubDate>Thu, 2 Nov 2017 11:25:22 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>iOS</category>
+			
+				<category>iPad</category>
+			
+				<category>iPhone</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>Mac OS X (generellt)</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>iOS</category>
+			
+				<category>iPad</category>
+			
+				<category>iPhone</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691850!teaserImage/imageTypeSelector/localImage/771673689.jpg" type="image/jpeg" length="67585" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691857/forsta-betaversionen-av-tv-os-112-utskickad</guid>
+		
+			<title>Första betaversionen av TV OS 11.2 utskickad</title>
+			<description>Nu har nästa version av mjukvaran för Apple TV börjat testas.
+</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691857/forsta-betaversionen-av-tv-os-112-utskickad</link>
+			<pubDate>Thu, 2 Nov 2017 11:12:24 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>AppleTV</category>
+			
+				<category>AppleTV</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691857!teaserImage/imageTypeSelector/localImage/330419891.jpg" type="image/jpeg" length="16395" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://pcforalla.awsdev.idg.se/2.1054/1.691866/regeringen-storsatsar-pa-bredband-i-glesbygden</guid>
+		
+			<title>Regeringen storsatsar på bredband i glesbygden</title>
+			<description>Utöver ett nytt regelverk ska 150 miljoner kronor öronmärkas för att hela befolkningen ska få tillgång till bredband.</description>
+			<link>http://pcforalla.awsdev.idg.se/2.1054/1.691866/regeringen-storsatsar-pa-bredband-i-glesbygden</link>
+			<pubDate>Thu, 2 Nov 2017 10:30:23 +0000</pubDate>
+			
+				<category>PC för Alla</category>
+			
+			
+				<category>Datorer</category>
+			
+				<category>PC</category>
+			
+				<category>Mac</category>
+			
+				<category>Ekonomi/Branch</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691866!teaserImage/imageTypeSelector/localImage/2295772205.jpg" type="image/jpeg" length="13936" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.683941/homepod-siri-hogtalare</guid>
+		
+			<title>Så kommer Iphone hitta Homepod – du kommer inte tro dina öron</title>
+			<description>Med den nya betaversionen av IOS 11.2 har Apple även släppt en uppdaterad firmware till kommande Homepod, som avslöjar mer om hur Siri fungerar med högtalaren.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.683941/homepod-siri-hogtalare</link>
+			<pubDate>Thu, 2 Nov 2017 10:30:00 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.683941!teaserImage/imageTypeSelector/localImage/4164341127.jpg" type="image/jpeg" length="25452" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691825/iphone-x-har-ny-exklusiv-ringsignal</guid>
+		
+			<title>Iphone X har en ny exklusiv ringsignal - så här låter den</title>
+			<description>Användare som skaffar en Iphone X och öppnar den utan att återställa från backup kommer upptäcka en ny standard-ringsignal: Reflection.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691825/iphone-x-har-ny-exklusiv-ringsignal</link>
+			<pubDate>Thu, 2 Nov 2017 10:19:19 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691825!teaserImage/imageTypeSelector/localImage/3980389476.jpg" type="image/jpeg" length="17428" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://studio.awsdev.idg.se/2.1078/1.691813/dmg-trackcomp--gammal-kompression-rakt-in-i-framtiden</guid>
+		
+			<title>DMG Track Comp: Gammal kompression rakt in i framtiden</title>
+			<description>DMG Audio har gjort sig kända med pluggar som Equality, Compassion och Essence. Nu släpper innovatörerna en ny mångsidig kompressor för både mixning och mastring.</description>
+			<link>http://studio.awsdev.idg.se/2.1078/1.691813/dmg-trackcomp--gammal-kompression-rakt-in-i-framtiden</link>
+			<pubDate>Thu, 2 Nov 2017 10:18:11 +0000</pubDate>
+			
+				<category>Studio</category>
+			
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691813!teaserImage/imageTypeSelector/localImage/1290406391.jpg" type="image/jpeg" length="24317" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://studio.awsdev.idg.se/2.1078/1.691714/nashville-bloggen-roadtrip</guid>
+		
+			<title>Nashville-bloggen: En roadtrip till Richland – och nya moddade pedaler</title>
+			<description>Tiden går och nu är det dags att summera den sista veckan i september.</description>
+			<link>http://studio.awsdev.idg.se/2.1078/1.691714/nashville-bloggen-roadtrip</link>
+			<pubDate>Thu, 2 Nov 2017 10:04:59 +0000</pubDate>
+			
+				<category>Studio</category>
+			
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691714!teaserImage/imageTypeSelector/localImage/467795819.jpg" type="image/jpeg" length="55746" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.646427/basta-apparna-for-ny-iphone</guid>
+		
+			<title>Poddar, hälsa och spel: Här är 30+ appar du måste ha till din nya Iphone</title>
+			<description>Har du köpt någon av de senaste Iphone-modellerna? Då är det hög tid att utrusta den med de bästa möjliga apparna för en mängd olika tillfällen. Vi listar guldkornen från App Store.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.646427/basta-apparna-for-ny-iphone</link>
+			<pubDate>Thu, 2 Nov 2017 09:58:00 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>App Store</category>
+			
+				<category>iOS</category>
+			
+				<category>iPhone</category>
+			
+				<category>Mobilt</category>
+			
+				<category>Appar</category>
+			
+				<category>iOS</category>
+			
+				<category>iPhone</category>
+			
+				<category>Mjukvara</category>
+			
+				<category>Mobilt/Handdator/Laptop</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.646427!teaserImage/imageTypeSelector/localImage/646043355.jpg" type="image/jpeg" length="44356" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691836/fitbit-bekraftar-ska-tillverka-fler-smartklockor</guid>
+		
+			<title>Fitbit bekräftar: Ska tillverka fler smartklockor</title>
+			<description>Ionic är inte nog. Nu bekräftar Fitbit att man ska tillverka ännu fler smartklockor, som ska säljas vid sidan om Ionic.</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691836/fitbit-bekraftar-ska-tillverka-fler-smartklockor</link>
+			<pubDate>Thu, 2 Nov 2017 09:38:55 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Hälsa</category>
+			
+				<category>Hårdvara</category>
+			
+				<category>Mjukvara</category>
+			
+				<category>Mobilt/Handdator/Laptop</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691836!teaserImage/imageTypeSelector/localImage/2084518777.jpg" type="image/jpeg" length="25331" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.688657/air-power</guid>
+		
+			<title>Nya uppgifter: Så mycket kan Airpower kosta i Sverige</title>
+			<description>En polsk återförsäljare har läckt priset på Airpower, och helt billig verkar den inte bli.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.688657/air-power</link>
+			<pubDate>Thu, 2 Nov 2017 09:22:00 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>iPhone</category>
+			
+				<category>Apple Watch</category>
+			
+				<category>iPhone</category>
+			
+				<category>Apple Watch</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.688657!teaserImage/imageTypeSelector/localImage/1992441601.jpg" type="image/jpeg" length="38301" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691827/playstation-bossen-om-framtiden</guid>
+		
+			<title>Playstation-bossen om augmented reality, 4k och exklusiva spel</title>
+			<description>Under Paris Games Week lanserade Sony en rad nya titlar. M3 fick en pratstund med Playstation-chefen Michael Denny om framtiden för vr och ar, varför 4k är så viktigt och hur Sony jobbar med tidiga utannonseringar.</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691827/playstation-bossen-om-framtiden</link>
+			<pubDate>Thu, 2 Nov 2017 09:11:44 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Spel</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691827!teaserImage/imageTypeSelector/localImage/1186579497.jpg" type="image/jpeg" length="45599" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691805/storsta-fragetecknen-kring-iphone-x</guid>
+		
+			<title>Flärp-gate och nya skärmen – 5 största frågetecken kring Apples Iphone X</title>
+			<description>Iphone X är alldeles, alldeles snart här. Men frågorna om hur Iphone X faktiskt kommer fungera är nästan lika många som vid lanseringen i september. Här är alla våra funderingar och farhågor inför Iphone X – som fortfarande inte fått ett svar.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691805/storsta-fragetecknen-kring-iphone-x</link>
+			<pubDate>Thu, 2 Nov 2017 09:01:41 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple</category>
+			
+				<category>iOS</category>
+			
+				<category>iPhone</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>iOS</category>
+			
+				<category>iPhone</category>
+			
+				<category>Hårdvara</category>
+			
+				<category>Mobilt/Handdator/Laptop</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691805!teaserImage/imageTypeSelector/localImage/1402193121.jpg" type="image/jpeg" length="20499" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691819/htc-u11-life</guid>
+		
+			<title>HTC släpper U11 Life: Mellanmobil med senaste Android</title>
+			<description>Den taiwanesiska mobiltillverkaren följer upp klockrena flaggskeppet U11 med en nedtonad modell för en överkomlig prislapp. HTC U11 Life levereras också med Android 8 Oreo. </description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691819/htc-u11-life</link>
+			<pubDate>Thu, 2 Nov 2017 08:43:25 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Ekonomi/Branch</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691819!teaserImage/imageTypeSelector/localImage/2720931231.jpg" type="image/jpeg" length="43415" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://pcforalla.awsdev.idg.se/2.1054/1.691443/andra-ditt-barnsliga-namn-i-gmail</guid>
+		
+			<title>Så ändrar du ditt ogenomtänkta namn i Gmail</title>
+			<description>Hade du för bråttom med namnvalet när du skapade ditt Gmailkonto? Det går att ändra.</description>
+			<link>http://pcforalla.awsdev.idg.se/2.1054/1.691443/andra-ditt-barnsliga-namn-i-gmail</link>
+			<pubDate>Thu, 2 Nov 2017 08:35:12 +0000</pubDate>
+			
+				<category>PC för Alla</category>
+			
+			
+				<category>--&gt; Publicera på PFA löp</category>
+			
+				<category>Enkel</category>
+			
+				<category>Internettjänster</category>
+			
+				<category>Internet/Webbtjänster</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691443!teaserImage/imageTypeSelector/localImage/2471966236.jpg" type="image/jpeg" length="11802" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691728/despicable-me-stuart-cam-hd-wifi-camera-overvaka-barnen</guid>
+		
+			<title>Prisvärd ip-minion håller koll på dina barn och husdjur</title>
+			<description>Ip-kameran Stuart Cam, som ser ut som en Minion, passar utmärkt i barnkammaren. Faktum är att den står sig helt okej mot bra mycket dyrare &#034;seriösa&#034; alternativ. Vi sätter betyg!</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691728/despicable-me-stuart-cam-hd-wifi-camera-overvaka-barnen</link>
+			<pubDate>Thu, 2 Nov 2017 08:20:09 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Hårdvara</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691728!teaserImage/imageTypeSelector/localImage/371351031.jpg" type="image/jpeg" length="85835" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691778/apple-vi-hade-aldrig-planer-pa-touch-id-i-iphone-x</guid>
+		
+			<title>Apple: Vi hade aldrig planer på Touch ID i Iphone X</title>
+			<description>I en intervju med Techcrunch säger Apples hårdvaruchef Dan Riccio att Touch ID försvann ur bilden så fort Face ID visade sig gångbart.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691778/apple-vi-hade-aldrig-planer-pa-touch-id-i-iphone-x</link>
+			<pubDate>Wed, 1 Nov 2017 15:16:38 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>iPhone</category>
+			
+				<category>iPhone</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691778!teaserImage/imageTypeSelector/localImage/1190650493.jpg" type="image/jpeg" length="29871" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://pcforalla.awsdev.idg.se/2.1054/1.691791/nu-har-skypes-nya-design-landat-pa-mac-och-pc</guid>
+		
+			<title>Skypes nya design landar på Mac och pc</title>
+			<description>I somras lanserade Microsoft en ny design på Skype för mobiler, och nu har turen kommit till skrivbordsversionerna för Mac OS och Windows.</description>
+			<link>http://pcforalla.awsdev.idg.se/2.1054/1.691791/nu-har-skypes-nya-design-landat-pa-mac-och-pc</link>
+			<pubDate>Wed, 1 Nov 2017 15:11:34 +0000</pubDate>
+			
+				<category>PC för Alla</category>
+			
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691791!teaserImage/imageTypeSelector/localImage/2655631599.jpg" type="image/jpeg" length="31331" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691740/philips-hue-ifttt</guid>
+		
+			<title>Philips Hue: Så här skapar du flashiga notiser med IFTTT</title>
+			<description>Få dina Philips Hue-lampor att blinka eller ändra färg när ditt favoritlag spelar, eller när chefen har mejlat. Med hjälp av IFTTT är det bara fantasin som sätter gränser för vad du kan automatisera.</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691740/philips-hue-ifttt</link>
+			<pubDate>Wed, 1 Nov 2017 13:47:00 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691740!teaserImage/imageTypeSelector/localImage/5770704.gif" type="image/gif" length="126913" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691783/nu-kan-du-andra-mejladress-for-apple-id-till-en-apple-adress</guid>
+		
+			<title>Nu kan du ändra mejladress för Apple ID till en Apple-adress</title>
+			<description>Apple har öppnat för möjligheten att byta mejladress på ett Apple ID-konto som tidigare haft en icke-Apple-adress till en från Apple.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691783/nu-kan-du-andra-mejladress-for-apple-id-till-en-apple-adress</link>
+			<pubDate>Wed, 1 Nov 2017 13:37:40 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>iCloud</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691783!teaserImage/imageTypeSelector/localImage/2560314360.jpg" type="image/jpeg" length="23933" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691789/anslut-bluetooth-fast-pair</guid>
+		
+			<title>Anslut Bluetooth-tillbehör snabbare med Fast Pair</title>
+			<description>Googles nya parkopplingsfunktion ska fungera med Android 6.0 eller senare.
+</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691789/anslut-bluetooth-fast-pair</link>
+			<pubDate>Wed, 1 Nov 2017 11:57:03 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Mobilt</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>Surfplatta</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691789!teaserImage/imageTypeSelector/localImage/1375958590.jpg" type="image/jpeg" length="17221" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691781/apple-sakerhetsuppdateringar-krack-bugg</guid>
+		
+			<title>Apple skickar ut säkerhetsuppdateringar för Krack-buggen</title>
+			<description>Nu får även användare av Mac OS Sierra och El Capitan ett skydd mot wifi-buggen.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691781/apple-sakerhetsuppdateringar-krack-bugg</link>
+			<pubDate>Wed, 1 Nov 2017 11:55:57 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple</category>
+			
+				<category>AppleTV</category>
+			
+				<category>iMac</category>
+			
+				<category>iPad</category>
+			
+				<category>iPhone</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>iPod</category>
+			
+				<category>Apple Watch</category>
+			
+				<category>Mac Mini</category>
+			
+				<category>Mac Pro</category>
+			
+				<category>Macbook</category>
+			
+				<category>Macbook Air</category>
+			
+				<category>Macbook Pro</category>
+			
+				<category>Mac OS X (generellt)</category>
+			
+				<category>OS X El Capitan</category>
+			
+				<category>Surfplatta</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>Surfplatta</category>
+			
+				<category>AppleTV</category>
+			
+				<category>iPad</category>
+			
+				<category>iPhone</category>
+			
+				<category>Apple Watch</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691781!teaserImage/imageTypeSelector/localImage/1673529806.jpg" type="image/jpeg" length="108913" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691774/markligt-skarmfel-kan-drabba-apple-watch-series-3</guid>
+		
+			<title>Märkligt skärmfel kan drabba Apple Watch Series 3</title>
+			<description>Rapporter har börjat komma in om ett märkligt fel där skärmen på nya Apple Watch blir randig. Apple byter ut drabbade enheter.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691774/markligt-skarmfel-kan-drabba-apple-watch-series-3</link>
+			<pubDate>Wed, 1 Nov 2017 11:54:14 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple Watch</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691774!teaserImage/imageTypeSelector/localImage/703464855.jpg" type="image/jpeg" length="19487" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://pcforalla.awsdev.idg.se/2.1054/1.691766/chatta-krypterat-pa-datorn-nu-finns-snowdens-favoritapp-till-desktop</guid>
+		
+			<title>Chatta krypterat på datorn: Nu finns Signal som desktop-app</title>
+			<description>Edward Snowden-favoriten kommer till PC, Mac och Linux.</description>
+			<link>http://pcforalla.awsdev.idg.se/2.1054/1.691766/chatta-krypterat-pa-datorn-nu-finns-snowdens-favoritapp-till-desktop</link>
+			<pubDate>Wed, 1 Nov 2017 09:48:56 +0000</pubDate>
+			
+				<category>PC för Alla</category>
+			
+			
+				<category>Mjukvara</category>
+			
+				<category>Säkerhet</category>
+			
+				<category>Ekonomi/Branch</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691766!teaserImage/imageTypeSelector/localImage/3945068272.jpg" type="image/jpeg" length="58002" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691757/sony-aibo</guid>
+		
+			<title>Efter mer än tio års frånvaro: Sonys robothund Aibo är tillbaka</title>
+			<description>Företagets robotjycke återvänder - och är mer avancerad än någonsin. Nya Aibo släpps i början av nästa år och blir din bästa vän för &#034;bara&#034; 14 500 kronor.</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691757/sony-aibo</link>
+			<pubDate>Wed, 1 Nov 2017 08:46:50 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Gadgets</category>
+			
+				<category>Hårdvara</category>
+			
+				<category>Hemelektronik</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691757!teaserImage/imageTypeSelector/localImage/4152743014.jpg" type="image/jpeg" length="119556" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.615872/sa-reparerar-du-en-trasig-skarm-paiphone</guid>
+		
+			<title>Så reparerar du enklast en trasig Iphone-skärm</title>
+			<description>Har skärmen på din Iphone spruckit? Inga problem, det kostar visserligen en slant men det finns många som kan laga Iphone och byta ut en trasig skärm.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.615872/sa-reparerar-du-en-trasig-skarm-paiphone</link>
+			<pubDate>Wed, 1 Nov 2017 08:37:00 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Guide</category>
+			
+				<category>iPhone</category>
+			
+				<category>iPhone</category>
+			
+				<category>Hårdvara</category>
+			
+				<category>Mobilt/Handdator/Laptop</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.615872!teaserImage/imageTypeSelector/localImage/171737565.jpg" type="image/jpeg" length="12544" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691747/carrot-weather</guid>
+		
+			<title>Blir vädret bättre med augumented reality? Vi testar Carrot Weather</title>
+			<description>Carrot Weather är en av de första apparna att bygga in ar-funktioner i appen, men gör det verkligen en väder-app bättre? Vi testar.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691747/carrot-weather</link>
+			<pubDate>Wed, 1 Nov 2017 08:27:15 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>App Store</category>
+			
+				<category>Apple</category>
+			
+				<category>iOS</category>
+			
+				<category>iPhone</category>
+			
+				<category>Apple Watch</category>
+			
+				<category>Mac OS X (generellt)</category>
+			
+				<category>Övrig mjukvara</category>
+			
+				<category>iOS</category>
+			
+				<category>iPhone</category>
+			
+				<category>Apple Watch</category>
+			
+				<category>Mjukvara</category>
+			
+				<category>Internet/Webbtjänster</category>
+			
+				<category>Mobilt/Handdator/Laptop</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691747!teaserImage/imageTypeSelector/localImage/3540086811.jpg" type="image/jpeg" length="39860" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://pcforalla.awsdev.idg.se/2.1054/1.691584/test-doro-8040-enkel-mobil</guid>
+		
+			<title>Doro 8040: Enkel seniormobil får fler smarta funktioner</title>
+			<description>Doros seniortelefoner är fulla av extrafunktioner och har tydligt gränssnitt. I nyaste modellen får vi mer kraft, kvalitet och valmöjligheter än tidigare.</description>
+			<link>http://pcforalla.awsdev.idg.se/2.1054/1.691584/test-doro-8040-enkel-mobil</link>
+			<pubDate>Wed, 1 Nov 2017 08:16:56 +0000</pubDate>
+			
+				<category>PC för Alla</category>
+			
+			
+				<category>Instagram-flöde</category>
+			
+				<category>Mobilt</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>Hårdvara</category>
+			
+				<category>Mobilt/Handdator/Laptop</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691584!teaserImage/imageTypeSelector/localImage/3866373383.jpg" type="image/jpeg" length="28919" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.688818/face-id</guid>
+		
+			<title>Enäggstvillingar utmanar Face ID – med blandat resultat</title>
+			<description>Business Insider lät ett par enäggstvillingar utmana Iphone X:s Face ID och resultaten ser bra ut för Apple. När Mashable gjorde samma test misslyckades dock telefonen - två gånger om.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.688818/face-id</link>
+			<pubDate>Wed, 1 Nov 2017 08:11:00 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>iPhone</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>iPhone</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.688818!teaserImage/imageTypeSelector/localImage/2216351963.jpg" type="image/jpeg" length="22555" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://pcforalla.awsdev.idg.se/2.1054/1.682037/test-smarta-wifi-paket-tackning-hela-huset</guid>
+		
+			<title>Wifi i hela huset – så står sig Google Wifi mot de andra mesh-lösningarna</title>
+			<description>En utmaning för hemmanätverket är pålitlig wifi. Det har tillverkarna börjat fatta och de släpper nu system som ger snabb och stabil täckning överallt.</description>
+			<link>http://pcforalla.awsdev.idg.se/2.1054/1.682037/test-smarta-wifi-paket-tackning-hela-huset</link>
+			<pubDate>Wed, 1 Nov 2017 08:05:00 +0000</pubDate>
+			
+				<category>PC för Alla</category>
+			
+			
+				<category>--&gt; Publicera på PFA löp</category>
+			
+				<category>Datortillbehör</category>
+			
+				<category>Datortillbehör</category>
+			
+				<category>Hårdvara</category>
+			
+				<category>Nätverk</category>
+			
+				<category>Datortillbehör</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.682037!teaserImage/imageTypeSelector/localImage/1547797947.jpg" type="image/jpeg" length="22528" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691756/homekit-tradfri</guid>
+		
+			<title>Nu får Ikea Trådfri stöd för Homekit</title>
+			<description>Efter flera ryktessvängar står det nu klart att Ikeas belysningssystem Trådfri äntligen begåvas med Homekit-stöd.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691756/homekit-tradfri</link>
+			<pubDate>Wed, 1 Nov 2017 08:03:12 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691756!teaserImage/imageTypeSelector/localImage/2602952170.jpg" type="image/jpeg" length="33038" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.690143/forsta-uppdateringen-av-mac-os-high-sierra-ar-har</guid>
+		
+			<title>Första stora uppdateringen av Mac OS High Sierra är här</title>
+			<description>Den nya versionen åtgärdar ett antal allvarliga buggar som uppmärksammats på sistone.
+</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.690143/forsta-uppdateringen-av-mac-os-high-sierra-ar-har</link>
+			<pubDate>Tue, 31 Oct 2017 17:52:00 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Mac OS X (generellt)</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.690143!teaserImage/imageTypeSelector/localImage/3823565364.jpg" type="image/jpeg" length="55793" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.658390/ny-uppdatering-for-apple-tv</guid>
+		
+			<title>Ny mjukvara för Apple TV - nya tv-appen ingår</title>
+			<description>Dessutom bjuder TV OS 11.1 på diverse bugg- och säkerhetsfixar.
+</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.658390/ny-uppdatering-for-apple-tv</link>
+			<pubDate>Tue, 31 Oct 2017 17:47:00 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>AppleTV</category>
+			
+				<category>Apple Watch</category>
+			
+				<category>AppleTV</category>
+			
+				<category>Apple Watch</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.658390!teaserImage/imageTypeSelector/localImage/2262186427.jpg" type="image/jpeg" length="11291" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.679096/watch-os-41-finns-for-nerladdning</guid>
+		
+			<title>Uppdatera din Apple Watch och få en ny radio-app</title>
+			<description>Nu kan du ladda ner en ny samling buggfixar till Apple Watch.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.679096/watch-os-41-finns-for-nerladdning</link>
+			<pubDate>Tue, 31 Oct 2017 17:32:00 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple Watch</category>
+			
+				<category>Apple Watch</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.679096!teaserImage/imageTypeSelector/localImage/3814412410.jpg" type="image/jpeg" length="103680" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691754/nu-kan-du-ladda-ner-ios-111---mangder-av-nya-emojis</guid>
+		
+			<title>Nu kan du ladda ner IOS 11.1 - mängder av nya emojis</title>
+			<description>Den nya versionen bjuder även på bugg- och säkerhetsfixar.
+</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691754/nu-kan-du-ladda-ner-ios-111---mangder-av-nya-emojis</link>
+			<pubDate>Tue, 31 Oct 2017 17:25:19 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>iOS</category>
+			
+				<category>iPad</category>
+			
+				<category>iPhone</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>iPod</category>
+			
+				<category>Surfplatta</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>Surfplatta</category>
+			
+				<category>iOS</category>
+			
+				<category>iPad</category>
+			
+				<category>iPhone</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691754!teaserImage/imageTypeSelector/localImage/3438670596.jpg" type="image/jpeg" length="37933" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691749/har-anvander-postnord-ip-kameror-for-att-ta-tjuvar-pa-bar-garning</guid>
+		
+			<title>Här använder Postnord ip-kameror för att ta tjuvarna på bar gärning</title>
+			<description>Tjuvar ertappas när de under spektakulära förhållanden stjäl gods från lastbilar som färdas i 80 kilometer i timmen. </description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691749/har-anvander-postnord-ip-kameror-for-att-ta-tjuvar-pa-bar-garning</link>
+			<pubDate>Tue, 31 Oct 2017 16:28:20 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691749!teaserImage/imageTypeSelector/localImage/1665646775.jpg" type="image/jpeg" length="279330" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691698/nu-slapper-samsung-sin-webblasare-till-samtliga-android-telefoner</guid>
+		
+			<title>Nu släpper Samsung sin webbläsare till samtliga Android-telefoner</title>
+			<description>Samsung Internet uppgraderas även med annonsblockering och blir tillgänglig på att alla telefoner som kör Android 5.0 eller senare. </description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691698/nu-slapper-samsung-sin-webblasare-till-samtliga-android-telefoner</link>
+			<pubDate>Tue, 31 Oct 2017 15:49:00 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Mobilt</category>
+			
+				<category>Mjukvara</category>
+			
+				<category>Internet/Webbtjänster</category>
+			
+				<category>Telekom</category>
+			
+				<category>Mobilt/Handdator/Laptop</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691698!teaserImage/imageTypeSelector/localImage/3824333319.jpg" type="image/jpeg" length="108310" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691702/entusiastevent-gastades-av-en-imac-pro</guid>
+		
+			<title>Imac Pro dök upp på event för entusiaster i helgen</title>
+			<description>Apples svarta proffsdator syntes ute &#034;i verkligheten&#034; för första gången.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691702/entusiastevent-gastades-av-en-imac-pro</link>
+			<pubDate>Tue, 31 Oct 2017 15:21:24 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple</category>
+			
+				<category>iMac</category>
+			
+				<category>Hårdvara</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691702!teaserImage/imageTypeSelector/localImage/2846804696.jpg" type="image/jpeg" length="11836" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691734/nokia-2</guid>
+		
+			<title>HMD lovar två dagars batteritid i nya Nokia 2</title>
+			<description>HMD har släppt en ny mobil vars enorma batteri och strömsnåla komponenter ska ge användaren en tillvaro utan batterimani.</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691734/nokia-2</link>
+			<pubDate>Tue, 31 Oct 2017 14:16:20 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691734!teaserImage/imageTypeSelector/localImage/3965747177.jpg" type="image/jpeg" length="25531" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691703/tim-cook-traffade-kinas-president</guid>
+		
+			<title>Tim Cook träffade Kinas president</title>
+			<description>Apples vd har varit i Kina och besökt president Xi Jingping.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691703/tim-cook-traffade-kinas-president</link>
+			<pubDate>Tue, 31 Oct 2017 14:12:07 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691703!teaserImage/imageTypeSelector/localImage/3765216538.jpg" type="image/jpeg" length="17662" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691704/sirikit-i-ios-112-avslojar-nya-detaljer-for-homepod</guid>
+		
+			<title>Sirikit till Homepod med IOS 11.2a: Ger första ledtrådarna om Apples smarta högtalare</title>
+			<description>De första små ledtrådarna om hur Homepod kommer fungera, vid sidan om det Apple redan berättat, kommer nu med IOS 11.2. </description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691704/sirikit-i-ios-112-avslojar-nya-detaljer-for-homepod</link>
+			<pubDate>Tue, 31 Oct 2017 13:10:48 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple</category>
+			
+				<category>iOS</category>
+			
+				<category>iOS</category>
+			
+				<category>Hårdvara</category>
+			
+				<category>Mjukvara</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691704!teaserImage/imageTypeSelector/localImage/3457458590.jpg" type="image/jpeg" length="25452" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://pcforalla.awsdev.idg.se/2.1054/1.691725/microsoft-skrotar-outlook-premium--flyttar-funktionerna-till-office-365</guid>
+		
+			<title>Microsoft skrotar Outlook Premium – flyttar funktionerna till Office 365</title>
+			<description>Office 365 blir snart bättre, då Microsoft håller på att flytta in funktionerna som ingick i Outlook Premium i abonnemangstjänsten.</description>
+			<link>http://pcforalla.awsdev.idg.se/2.1054/1.691725/microsoft-skrotar-outlook-premium--flyttar-funktionerna-till-office-365</link>
+			<pubDate>Tue, 31 Oct 2017 12:07:23 +0000</pubDate>
+			
+				<category>PC för Alla</category>
+			
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691725!teaserImage/imageTypeSelector/localImage/1940393938.jpg" type="image/jpeg" length="19161" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691701/apple-kan-dumpa-qualcomm-infor-nasta-ars-ios-prylar</guid>
+		
+			<title>Apple kan dumpa Qualcomm inför nästa års IOS-prylar</title>
+			<description>Patentbråket rasar vidare. Nu överväger Apple att anlita annan tillverkare för produktionen av LTE-chippen i Iphone och Ipad.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691701/apple-kan-dumpa-qualcomm-infor-nasta-ars-ios-prylar</link>
+			<pubDate>Tue, 31 Oct 2017 12:04:06 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple</category>
+			
+				<category>iPad</category>
+			
+				<category>iPhone</category>
+			
+				<category>iPad</category>
+			
+				<category>iPhone</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691701!teaserImage/imageTypeSelector/localImage/3406946506.png" type="image/png" length="198401" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691722/apples-tv-app-gor-svensk-debut</guid>
+		
+			<title>Hallå där! Apples tv-app gör svensk debut i IOS 11.1</title>
+			<description>Samlar tv-program från flera olika videotjänster under samma tak.
+</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691722/apples-tv-app-gor-svensk-debut</link>
+			<pubDate>Tue, 31 Oct 2017 10:31:20 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>AppleTV</category>
+			
+				<category>iOS</category>
+			
+				<category>iPad</category>
+			
+				<category>iPhone</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>iPod</category>
+			
+				<category>Surfplatta</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>Surfplatta</category>
+			
+				<category>AppleTV</category>
+			
+				<category>iOS</category>
+			
+				<category>iPad</category>
+			
+				<category>iPhone</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691722!teaserImage/imageTypeSelector/localImage/1365952592.jpg" type="image/jpeg" length="10588" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://studio.awsdev.idg.se/2.1078/1.691659/mastring-ozone-8</guid>
+		
+			<title>Långtest: Innovativ mastring med Ozone 8</title>
+			<description>Ulf Blomberg har testat Ozone 8 från Izotope under ett par veckor. Han är väldigt imponerad av vissa delar, men skeptisk till andra. </description>
+			<link>http://studio.awsdev.idg.se/2.1078/1.691659/mastring-ozone-8</link>
+			<pubDate>Tue, 31 Oct 2017 09:40:30 +0000</pubDate>
+			
+				<category>Studio</category>
+			
+			
+				<category>Hårdvara</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691659!teaserImage/imageTypeSelector/localImage/3540086811.jpg" type="image/jpeg" length="17094" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691706/apple-pay-sverige-banker</guid>
+		
+			<title>&#034;Vi har varit redo för Apple Pay sedan länge – ändå halkar bankerna efter&#034;</title>
+			<description>Apple Pay har slutligen lanserats i Sverige, men de flesta banker kan inte erbjuda betaltjänsten åt sina kunder – och verkar inte heller särskilt intresserade av att ge några svar. </description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691706/apple-pay-sverige-banker</link>
+			<pubDate>Tue, 31 Oct 2017 09:36:57 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple</category>
+			
+				<category>iOS</category>
+			
+				<category>iPhone</category>
+			
+				<category>iOS</category>
+			
+				<category>iPhone</category>
+			
+				<category>Mjukvara</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691706!teaserImage/imageTypeSelector/localImage/274200187.jpg" type="image/jpeg" length="38594" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://studio.awsdev.idg.se/2.1078/1.691695/irig-pre-hd-hogupplost-inspelning-fickformat</guid>
+		
+			<title>iRig Pre HD – Högupplöst inspelning i fickformat</title>
+			<description>IK Multimedia släpper en uppdaterad version av sin nätta mikrofonförstärkare till iPhone, iPad, Mac och PC och utlovar ljud i toppklass.</description>
+			<link>http://studio.awsdev.idg.se/2.1078/1.691695/irig-pre-hd-hogupplost-inspelning-fickformat</link>
+			<pubDate>Tue, 31 Oct 2017 09:36:51 +0000</pubDate>
+			
+				<category>Studio</category>
+			
+			
+				<category>Inspelning</category>
+			
+				<category>Mikrofon</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691695!teaserImage/imageTypeSelector/localImage/502726280.jpg" type="image/jpeg" length="38747" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.598027/test-av-10-tradlosa-bluetooth-hogtalare</guid>
+		
+			<title>Stort test: Här är vinterns bästa trådlösa högtalare</title>
+			<description>Bluetooth-högtalare är populära som aldrig förr, men det är inte alltid lätt att välja rätt. Här är de bästa högtalarna du kan köpa just nu, med betyg och aktuella priser. </description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.598027/test-av-10-tradlosa-bluetooth-hogtalare</link>
+			<pubDate>Tue, 31 Oct 2017 09:34:00 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>--&gt; Publicera på PFA löp</category>
+			
+				<category>Ljud &amp; Bild</category>
+			
+				<category>Hårdvara</category>
+			
+				<category>Hemelektronik</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.598027!teaserImage/imageTypeSelector/localImage/2848007035.jpg" type="image/jpeg" length="33256" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.646661/basta-skalen-fodralen-ipad-pro</guid>
+		
+			<title>Vårda paddan: Här är bästa fodralen till din Ipad Pro</title>
+			<description>Ipad Pro är en riktig dyrgrip, och med en så stor och fin skärm vore det skam om den åkte i golvet och sprack eller repades av något. Här är de 10 grymma fodral och skal.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.646661/basta-skalen-fodralen-ipad-pro</link>
+			<pubDate>Tue, 31 Oct 2017 09:06:00 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>iPad</category>
+			
+				<category>Prylar &amp; tillbehör</category>
+			
+				<category>Mobilt</category>
+			
+				<category>iPad</category>
+			
+				<category>Hårdvara</category>
+			
+				<category>Mobilt/Handdator/Laptop</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.646661!teaserImage/imageTypeSelector/localImage/1190650493.jpg" type="image/jpeg" length="42634" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://pcforalla.awsdev.idg.se/2.1054/1.691707/bankid-bedragare</guid>
+		
+			<title>Varning: Bankid-bedragare i farten igen – så synar du bluffen</title>
+			<description>De senaste dagarna har Nordeakunder blivit uppringda och ombedda att signera något med Bankid eller kortläsare. Nu går banken själva ut med en varning. </description>
+			<link>http://pcforalla.awsdev.idg.se/2.1054/1.691707/bankid-bedragare</link>
+			<pubDate>Tue, 31 Oct 2017 09:01:44 +0000</pubDate>
+			
+				<category>PC för Alla</category>
+			
+			
+				<category>Mjukvara</category>
+			
+				<category>Säkerhet</category>
+			
+				<category>Ekonomi/Branch</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691707!teaserImage/imageTypeSelector/localImage/3602156122.jpg" type="image/jpeg" length="51067" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.645672/starwars-gadgets-prylar</guid>
+		
+			<title>Inför nya filmen: Här är prylarna Star Wars-nörden bara måste ha</title>
+			<description>Nu är det inte långt kvar till Star Wars: The Last Jedi går upp på biograferna! Vi har samlat de mest spännande, användbara och tokiga prylar du kan fira med.</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.645672/starwars-gadgets-prylar</link>
+			<pubDate>Tue, 31 Oct 2017 09:00:00 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.645672!teaserImage/imageTypeSelector/localImage/4062401348.jpg" type="image/jpeg" length="92154" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://pcforalla.awsdev.idg.se/2.1054/1.691420/tjana-pengar-pa-dina-resetips</guid>
+		
+			<title>Tjäna pengar på dina resetips – här är sajterna som hjälper dig</title>
+			<description>Dina utlandsresor behöver inte kosta pengar. Här är två sajter som köper dina resetips.</description>
+			<link>http://pcforalla.awsdev.idg.se/2.1054/1.691420/tjana-pengar-pa-dina-resetips</link>
+			<pubDate>Tue, 31 Oct 2017 08:47:32 +0000</pubDate>
+			
+				<category>PC för Alla</category>
+			
+			
+				<category>--&gt; Publicera på PFA löp</category>
+			
+				<category>Mobilt</category>
+			
+				<category>Surftips nytta</category>
+			
+				<category>Internet/Webbtjänster</category>
+			
+				<category>Mobilt/Handdator/Laptop</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691420!teaserImage/imageTypeSelector/localImage/2444096819.jpg" type="image/jpeg" length="90112" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://pcforalla.awsdev.idg.se/2.1054/1.675903/microsoft-ms-paint-3d</guid>
+		
+			<title>Så skapar du 3d-objekt i nya Paint 3D för Windows</title>
+			<description>Paint 3D är en del av nya Windows 10 Creators update. Här får du en första titt på hur du skapar 3d-scener redan nu. </description>
+			<link>http://pcforalla.awsdev.idg.se/2.1054/1.675903/microsoft-ms-paint-3d</link>
+			<pubDate>Tue, 31 Oct 2017 08:39:00 +0000</pubDate>
+			
+				<category>PC för Alla</category>
+			
+			
+				<category>Mjukvara</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.675903!teaserImage/imageTypeSelector/localImage/3999357355.jpg" type="image/jpeg" length="19392" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691692/paris-games-week-2017</guid>
+		
+			<title>Paris Games Week: &#034;Går Sony på knock i kriget mot Xbox?&#034;</title>
+			<description>Under Paris Games Week slår Sony på stora trumman. Här är spelen som imponerar mest på oss.</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691692/paris-games-week-2017</link>
+			<pubDate>Tue, 31 Oct 2017 08:24:06 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691692!teaserImage/imageTypeSelector/localImage/3017929211.jpg" type="image/jpeg" length="68416" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691697/oneplus-5t</guid>
+		
+			<title>Superläckan visar Oneplus 5T med nästintill kantlös skärm</title>
+			<description>Uppföljaren till Oneplus 5 visar upp sig i nyläckta bilder. Förväntas släppas senare i höst.  </description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691697/oneplus-5t</link>
+			<pubDate>Tue, 31 Oct 2017 08:13:00 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Mobilt</category>
+			
+				<category>Hårdvara</category>
+			
+				<category>Telekom</category>
+			
+				<category>Mobilt/Handdator/Laptop</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691697!teaserImage/imageTypeSelector/localImage/623752733.jpg" type="image/jpeg" length="94310" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691687/lifx-homekit</guid>
+		
+			<title>Ljusare för Apple-hemmen: Lifx smarta lampor blir Homekit-kompatibla</title>
+			<description>Ännu ett belysningssystem får stöd för Homekit, den här gången rör det sig om Lifx.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691687/lifx-homekit</link>
+			<pubDate>Tue, 31 Oct 2017 08:10:04 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Hårdvara</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691687!teaserImage/imageTypeSelector/localImage/3226488446.jpg" type="image/jpeg" length="16336" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691693/kalkylatorbuggen-fixas-i-ios-112---forsta-betan-ute-nu</guid>
+		
+			<title>Kalkylatorbuggen fixas i IOS 11.2 - första betan ute nu</title>
+			<description>Snart ska du förhoppningsvis kunna lita på Apples miniräknare igen.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691693/kalkylatorbuggen-fixas-i-ios-112---forsta-betan-ute-nu</link>
+			<pubDate>Mon, 30 Oct 2017 19:48:12 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>iOS</category>
+			
+				<category>Mobiltelefon</category>
+			
+				<category>Surfplatta</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691693!teaserImage/imageTypeSelector/localImage/3975817159.jpg" type="image/jpeg" length="39813" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691691/se-nya-trailern-for-hajpade-detroit-become-human</guid>
+		
+			<title>Se nya trailern för hajpade Detroit: Become Human</title>
+			<description>Visar hur dina val kan påverka händelser i spelet och hur detta kan leda till väldigt olika berättelser. </description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691691/se-nya-trailern-for-hajpade-detroit-become-human</link>
+			<pubDate>Mon, 30 Oct 2017 19:09:07 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Spel</category>
+			
+				<category>Underhållning/Spel</category>
+			
+				<category>Spelkonsol</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691691!teaserImage/imageTypeSelector/localImage/2638222900.jpg" type="image/jpeg" length="206898" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.691690/det-har-ar-sonys-nya-samuraj-spel---ghost-of-tsushima</guid>
+		
+			<title>Här är Sonys nya samuraj-spel – Ghost of Tsushima</title>
+			<description>Utvecklas av gänget bakom Infamous-spelen och äger rum under mongolväldets invasion av den japanska ögruppen Tsushima. </description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.691690/det-har-ar-sonys-nya-samuraj-spel---ghost-of-tsushima</link>
+			<pubDate>Mon, 30 Oct 2017 18:39:53 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Spel</category>
+			
+				<category>Underhållning/Spel</category>
+			
+				<category>Spelkonsol</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691690!teaserImage/imageTypeSelector/localImage/797866915.jpg" type="image/jpeg" length="313568" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://m3.awsdev.idg.se/2.1022/1.671214/sony-avtacker-the-last-of-us-part-ii</guid>
+		
+			<title>Se den makalösa trailern från The Last of Us: Part II</title>
+			<description>Och börja räkna ner dagarna till lansering...</description>
+			<link>http://m3.awsdev.idg.se/2.1022/1.671214/sony-avtacker-the-last-of-us-part-ii</link>
+			<pubDate>Mon, 30 Oct 2017 17:44:00 +0000</pubDate>
+			
+				<category>M3</category>
+			
+			
+				<category>Spel</category>
+			
+				<category>Underhållning/Spel</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.671214!teaserImage/imageTypeSelector/localImage/997362423.jpg" type="image/jpeg" length="39929" />
+			
+		</item>
+	
+		<item>
+		
+			
+			<guid>http://macworld.awsdev.idg.se/2.1038/1.691645/kgi-tillverkningen-av-truedepth-kameran-har-stabiliserats</guid>
+		
+			<title>KGI: Tillverkningen av Truedepth-kameran har &#034;stabiliserats&#034;</title>
+			<description>Framöver kommer Apple kunna tillverka så många telefoner som krävs för att möta efterfrågan.</description>
+			<link>http://macworld.awsdev.idg.se/2.1038/1.691645/kgi-tillverkningen-av-truedepth-kameran-har-stabiliserats</link>
+			<pubDate>Mon, 30 Oct 2017 15:08:52 +0000</pubDate>
+			
+				<category>MacWorld</category>
+			
+			
+				<category>Apple</category>
+			
+				<category>iPhone</category>
+			
+				<category>iPhone</category>
+			
+				<category>Hårdvara</category>
+			
+				<category>Teknik</category>
+			
+			
+			<enclosure url="https://d2hni61wq048uz.cloudfront.net/editorial/0/path/1.691645!teaserImage/imageTypeSelector/localImage/1233967445.jpg" type="image/jpeg" length="27397" />
+			
+		</item>
+	
 </channel>
 </rss>
