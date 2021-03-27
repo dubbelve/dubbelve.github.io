@@ -59,4 +59,14 @@ body {
 	padding: 2rem;
 }
 
-.code__line {}
+.code__purple {
+	color: purple;
+}
+
+.code__yellow {
+	color: yellow;
+}
+
+.code__blue {
+	color: blue;
+}
