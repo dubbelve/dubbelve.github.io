@@ -14,14 +14,16 @@ var app = new Vue({
 			let weeks = this.weeksBetween(new Date(2020, 02, 01), this.today);
 			let daynumber = this.today.getDay();
 
+			console.log(weeks);
+
 			if (daynumber < 6) {
 				if (this.isEven(weeks)) {
 					if (!this.isEven(daynumber)) {
-						this.message = 'POST!'
+						this.message = 'Ut och kolla postlådan för fan!'
 					}
 				} else {
 					if (this.isEven(daynumber)) {
-						this.message = 'POST!'
+						this.message = 'Nu jävlar i helvete!'
 					}
 				}
 			} else {
