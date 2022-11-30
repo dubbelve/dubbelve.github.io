@@ -75,16 +75,5 @@ body {
 a {
 	text-decoration: none;
 	position: relative;
-}
-
-a:after {
-	content: "";
-	width: 12px;
-	height: 12px;
-	background-image: url('./assets/cursor.svg');
-	background-size: cover;
-	display: block;
-	position: absolute;
-	bottom: 0;
-	right: 0;
+	display: inline-block;
 }
