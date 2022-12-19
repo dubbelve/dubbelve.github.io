@@ -76,3 +76,8 @@ button {
     margin-bottom: 0.875rem;
     line-height: 1.5;
 }
+
+p.desc {
+    margin-bottom: 2rem;
+    line-height: 1.2;
+}

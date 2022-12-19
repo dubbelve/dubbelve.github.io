@@ -11,6 +11,7 @@
 <body>
     <div id="app">
         <h1>PostMord v.2.0</h1>
+        <p class="desc">Numera skickar vi allt färre brev, men desto fler paket. PostNord delar därför ut brev, tidningar och reklam i normalfallet varannan dag.</p>
         <input type="text" name="postalCode" id="postalCode" v-model="postalCode">
         <button @click="triggerSearch">Sök</button>
         <div class="result" v-if="getResult && isLoading === false">
