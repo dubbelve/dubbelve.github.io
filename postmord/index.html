@@ -1,22 +1,60 @@
 <!DOCTYPE html>
-<html lang='en'>
-    <head>
-        <meta charset='utf-8' />
-        <meta name='viewport' content='width=device-width, initial-scale=1' />
-        <link rel="manifest" href="ea039259c4d4f688c759.json">
-    <script defer src="bundle.js"></script></head>
-    <body>
-        <div id='root'></div>
-        <script>
-            if ('serviceWorker' in navigator) {
-                navigator.serviceWorker.register('https://dubbelve.github.io/postmord/sw.js', { scope: '/'})
-                    .then(function (registration) {
-                        console.log('Service Worker Registered');
-                    });
-                navigator.serviceWorker.ready.then(function (registration) {
-                    console.log('Service Worker Ready');
-                })
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PostMord v2.0</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <h1>PostMord v.2.0</h1>
+        <input type="text" name="postalCode" id="postalCode" v-model="postalCode">
+        <button @click="triggerSearch">Sök</button>
+        <div class="result" v-if="getResult && isLoading === false">
+            <p class="result__label">Postort</p>
+            <p class="result__string">{{getResult.city}}</p>
+            <p class="result__label">Kommande</p>
+            <p class="result__string">{{getResult.delivery}}</p>
+            <p class="result__label">Nästkommande</p>
+            <p class="result__string">{{getResult.upcoming}}</p>
+        </div>
+        <div v-if="isLoading === true" class="loading">Loading...</div>
+    </div>
+    
+    <script>
+      const { createApp } = Vue
+ 
+        createApp({
+            data() {
+                return {
+                    getResult: null,
+                    isLoading: false,
+                    postalCode: ""
+                }
+            },
+            methods: {
+                triggerSearch() {
+                    this.isLoading = true;
+                    this.getData(postalCode.value);
+                },
+                async getData(formNumber) {
+                    try {
+                        if (formNumber) {
+                            const response = await fetch(`https://portal.postnord.com/api/sendoutarrival/closest?postalCode=${formNumber}`);
+                            const data = await response.json();
+                            this.isLoading = false;
+                            this.getResult = data;
+                            console.log(data);
+                        }
+                    } catch (err) {
+                        this.getResult = err.message;
+                    }
+                }
             }
-        </script>
-    </body>
+        }).mount('#app')
+    </script>
+</body>
 </html>
