@@ -1,7 +1,7 @@
 {
     "name": "PostMordV2",
     "short_name": "PMV2",
-    "start_url": "https://dubbelve.github.io/postmord/",
+    "start_url": "/",
     "icons": [],
     "theme_color": "#000000",
     "background_color": "#000000",
