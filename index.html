@@ -1,90 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Carl Brithén - Webdev | Portfolio">
-	<title>Carl Brithén - Webdev | Portfolio</title>
-	<link rel="stylesheet" href="style.css">
-	<style>
-		@font-face {
-			font-family: "SourceCodePro";
-			src: url("/assets/SourceCodePro-Regular.ttf");
-		}
-		
-		body {
-			font-family: 'SourceCodePro', monospace;
-		}
-	</style>
-</head>
-<body>
-	<div class="code mb-2">
-		<p class="code__line mb-1"><span class="code__purple">import</span> { WebDev } <span class="code__purple">from</span> <span class="code__yellow">'./components/webDev';</span></p>
-		<p class="code__line mb-1"><span class="code__purple">import</span> { Skill } <span class="code__purple">from</span> <span class="code__yellow">'./components/skill';</span></p>
-		<p class="code__line mb-2"><span class="code__purple">import</span> { Project } <span class="code__purple">from</span> <span class="code__yellow">'./components/project';</span></p>
-		<p class="code__line">&lt;<span class="code__blue">WebDev</span></p>
-		<p class="code__line indent-1">name=<span class="code__yellow">"Carl Brithén"</span></p>
-		<p class="code__line indent-1">role=<span class="code__yellow">"Frontend developer"</span></p>
-		<p class="code__line indent-1">contact=<span class="code__yellow">"<a class="code__yellow" href="https://www.linkedin.com/in/carlbrithen/">Linkedin</a>"</span></p>
-		<p class="code__line">/></p>
-	</div>
-	<div class="code mb-2">
-		<p class="code__line mb-2"><span class="code__green">/* ~~~~~~~~~~ */</span></p>
-		<p class="code__line"><span class="code__green">// Level ranges from 1-5</span></p>
-	</div>
-	<div class="code mb-2">
-		<p class="code__line">&lt;<span class="code__blue">Skill</span></p>
-		<p class="code__line indent-1">name=<span class="code__yellow">"JavaScript"</span></p>
-		<p class="code__line indent-1">level=<span class="code__yellow">"4"</span></p>
-		<p class="code__line mb-1">/></p>
-		<p class="code__line">&lt;<span class="code__blue">Skill</span></p>
-		<p class="code__line indent-1">name=<span class="code__yellow">"React"</span></p>
-		<p class="code__line indent-1">level=<span class="code__yellow">"4"</span></p>
-		<p class="code__line mb-1">/></p>
-		<p class="code__line">&lt;<span class="code__blue">Skill</span></p>
-		<p class="code__line indent-1">name=<span class="code__yellow">"React Native"</span></p>
-		<p class="code__line indent-1">level=<span class="code__yellow">"3"</span></p>
-		<p class="code__line mb-1">/></p>
-		<p class="code__line">&lt;<span class="code__blue">Skill</span></p>
-		<p class="code__line indent-1">name=<span class="code__yellow">"TypeScript"</span></p>
-		<p class="code__line indent-1">level=<span class="code__yellow">"3"</span></p>
-		<p class="code__line mb-1">/></p>
-		<p class="code__line">&lt;<span class="code__blue">Skill</span></p>
-		<p class="code__line indent-1">name=<span class="code__yellow">"Node.js"</span></p>
-		<p class="code__line indent-1">level=<span class="code__yellow">"3"</span></p>
-		<p class="code__line mb-1">/></p>
-		<p class="code__line">&lt;<span class="code__blue">Skill</span></p>
-		<p class="code__line indent-1">name=<span class="code__yellow">"Vue.js"</span></p>
-		<p class="code__line indent-1">level=<span class="code__yellow">"3"</span></p>
-		<p class="code__line mb-1">/></p>
-		<p class="code__line">&lt;<span class="code__blue">Skill</span></p>
-		<p class="code__line indent-1">name=<span class="code__yellow">"UX"</span></p>
-		<p class="code__line indent-1">level=<span class="code__yellow">"3"</span></p>
-		<p class="code__line">/></p>
-	</div>
-	<div class="code mb-2">
-		<p class="code__line mb-2"><span class="code__green">/* ~~~~~~~~~~ */</span></p>
-		<p class="code__line"><span class="code__green">// Click component to open page (╯°□°）╯︵ ┻━┻</span></p>
-	</div>
-	<a class="code mb-2" href="https://dubbelve.github.io/postmord" target="_blank">
-		<p class="code__line">&lt;<span class="code__blue">Project</span></p>
-		<p class="code__line indent-1">name=<span class="code__yellow">"PostMordv2"</span></p>
-		<p class="code__line indent-1">status=<span class="code__yellow">"wip"</span></p>
-		<p class="code__line indent-1">version=<span class="code__yellow">"0.1.0"</span></p>
-		<p class="code__line indent-1">type=<span class="code__yellow">"Webapp/PWA"</span></p>
-		<p class="code__line indent-1">description=<span class="code__yellow">"Simple webapp/PWA for tracking Postnord delivery dates to provided postalnumber"</span></p>
-		<p class="code__line">/></p>
-	</a>
-	<div class="code mb-1">
-		<p class="code__line"><span class="code__green">/* @TODO</span></p>
-		<p class="code__line indent-1"><span class="code__green">- Stuff</span></p>
-		<p class="code__line indent-1"><span class="code__green">- Avoid perishment</span></p>
-		<p class="code__line indent-1"><span class="code__green">- ( ^_^)／</span></p>
-		<p class="code__line"><span class="code__green">*/</span></p>
-	</div>
-	<div class="code">
-		<p class="code__line blinking">|</p>
-	</div>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + React + TS</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
 </html>
